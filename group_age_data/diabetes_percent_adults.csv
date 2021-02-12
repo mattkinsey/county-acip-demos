@@ -1,0 +1,15 @@
+"Crude percentages of diabetes for adults aged 18 and over, United States, 2015-2018"
+"Year","18-44 years","45-64 years","65-74 years","75 and over"
+" 2018"," 3.3"," 12.9"," 22.2"," 22.8"
+" 2017"," 2.7"," 13.2"," 20.1"," 19.8"
+" 2016"," 2.8"," 12.5"," 23.0"," 19.4"
+" 2015"," 2.2"," 13.0"," 22.8"," 21.8"
+
+"Standard errors for crude percentages of diabetes for adults aged 18 and over, United States, 2015-2018"
+"Year","18-44 years","45-64 years","65-74 years","75 and over"
+" 2018"," 0.23"," 0.47"," 0.79"," 0.99"
+" 2017"," 0.18"," 0.46"," 0.77"," 0.98"
+" 2016"," 0.2"," 0.45"," 0.81"," 0.85"
+" 2015"," 0.16"," 0.45"," 0.88"," 0.95"
+
+"Source: National Center for Health Statistics, National Health Interview Survey, 2015-2018"
