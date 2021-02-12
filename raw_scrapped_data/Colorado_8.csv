@@ -1,0 +1,76 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Denver,86611,22230,25.7
+El Paso,76617,19665,25.7
+Arapahoe,66179,16985,25.7
+Adams,60876,15624,25.7
+Jefferson,57034,14638,25.7
+Larimer,36995,9495,25.7
+Weld,32627,8374,25.7
+Boulder,29651,7610,25.7
+Douglas,28650,7353,25.7
+Pueblo,21122,5421,25.7
+Mesa,19438,4989,25.7
+La Plata,6897,1770,25.7
+Broomfield,6520,1673,25.7
+Fremont,6500,1668,25.7
+Garfield,6393,1640,25.7
+Eagle,5736,1472,25.7
+Montrose,5025,1289,25.7
+Delta,3760,965,25.7
+Summit,3673,942,25.6
+Montezuma,3340,857,25.7
+Morgan,3063,786,25.7
+Routt,2948,756,25.6
+Logan,2913,747,25.6
+Elbert,2711,695,25.6
+Teller,2480,636,25.6
+Otero,2304,591,25.7
+Chaffee,2208,566,25.6
+Gunnison,2133,547,25.6
+Alamosa,2125,545,25.6
+Park,2000,513,25.6
+Pitkin,1856,476,25.6
+Las Animas,1804,463,25.7
+Grand,1807,463,25.6
+Moffat,1515,388,25.6
+Archuleta,1450,372,25.7
+Prowers,1389,356,25.6
+Rio Grande,1276,327,25.6
+Yuma,1056,271,25.7
+Clear Creek,995,255,25.6
+Conejos,988,253,25.6
+Lake,985,252,25.6
+Crowley,971,249,25.6
+Saguache,950,243,25.6
+San Miguel,945,242,25.6
+Bent,895,229,25.6
+Kit Carson,820,210,25.6
+Huerfano,738,189,25.6
+Rio Blanco,700,179,25.6
+Lincoln,686,176,25.7
+Gilpin,688,176,25.6
+Custer,578,148,25.6
+Washington,546,140,25.6
+Ouray,538,138,25.7
+Costilla,537,137,25.5
+Baca,435,111,25.5
+Phillips,391,100,25.6
+Sedgwick,251,64,25.5
+Dolores,220,56,25.5
+Cheyenne,207,53,25.6
+Kiowa,156,40,25.6
+Jackson,155,39,25.2
+Mineral,95,24,25.3
+Hinsdale,95,24,25.3
+San Juan,83,21,25.3
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged 16+ and smoker,615330,157906,25.7

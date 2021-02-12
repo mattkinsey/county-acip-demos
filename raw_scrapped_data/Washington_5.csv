@@ -1,0 +1,51 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+King,382191,53736,14.1
+Pierce,202426,28461,14.1
+Snohomish,190086,26726,14.1
+Spokane,119190,16758,14.1
+Clark,99106,13934,14.1
+Thurston,60584,8518,14.1
+Yakima,60137,8455,14.1
+Kitsap,59316,8339,14.1
+Benton,47423,6667,14.1
+Whatcom,38994,5482,14.1
+Cowlitz,29033,4082,14.1
+Skagit,22812,3207,14.1
+Grant,22653,3185,14.1
+Franklin,20263,2849,14.1
+Grays Harbor,17939,2522,14.1
+Lewis,17451,2453,14.1
+Mason,16282,2289,14.1
+Chelan,16184,2275,14.1
+Clallam,14826,2084,14.1
+Island,14663,2061,14.1
+Walla Walla,12970,1823,14.1
+Whitman,9910,1393,14.1
+Okanogan,9232,1298,14.1
+Kittitas,8796,1236,14.1
+Douglas,8093,1137,14.0
+Stevens,7692,1081,14.1
+Pacific,5835,820,14.1
+Asotin,4873,685,14.1
+Adams,4073,572,14.0
+Klickitat,3762,528,14.0
+Jefferson,3346,470,14.0
+Pend Oreille,3029,425,14.0
+Skamania,2877,404,14.0
+Lincoln,2180,306,14.0
+San Juan,1936,272,14.0
+Ferry,1710,240,14.0
+Columbia,824,115,14.0
+Wahkiakum,825,115,13.9
+Garfield,537,75,14.0
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged 18-64 w cormorbidities,1544059,217078,14.1

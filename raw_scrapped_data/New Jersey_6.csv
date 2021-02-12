@@ -1,0 +1,33 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Bergen,7368,7368,100.0
+Essex,6198,6198,100.0
+Middlesex,6073,6073,100.0
+Monmouth,5352,5352,100.0
+Ocean,5235,5235,100.0
+Camden,4560,4560,100.0
+Hudson,4545,4545,100.0
+Union,4135,4135,100.0
+Morris,3990,3990,100.0
+Burlington,3957,3957,100.0
+Passaic,3852,3852,100.0
+Mercer,3097,3097,100.0
+Somerset,2587,2587,100.0
+Gloucester,2575,2575,100.0
+Atlantic,2169,2169,100.0
+Cumberland,1315,1315,100.0
+Sussex,1165,1165,100.0
+Hunterdon,973,973,100.0
+Cape May,884,884,100.0
+Warren,872,872,100.0
+Salem,603,603,100.0
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged under 65 w cancer,71505,71505,100.0

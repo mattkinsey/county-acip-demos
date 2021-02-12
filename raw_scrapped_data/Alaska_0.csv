@@ -1,0 +1,40 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Anchorage,20771,13374,64.4
+Matanuska-Susitna,4371,2814,64.4
+Fairbanks North Star,4051,2608,64.4
+Kenai Peninsula,2631,1694,64.4
+Juneau City and Borough,1124,723,64.3
+Ketchikan Gateway,441,283,64.2
+Kodiak Island,430,276,64.2
+Sitka City and Borough,255,164,64.3
+North Slope,227,146,64.3
+Bethel,147,94,63.9
+Dillingham,117,75,64.1
+Nome,92,59,64.1
+Aleutians West,85,54,63.5
+Yukon-Koyukuk,82,52,63.4
+Southeast Fairbanks,61,39,63.9
+Petersburg,45,28,62.2
+Prince of Wales-Hyder,45,28,62.2
+Haines,42,27,64.3
+Northwest Arctic,38,24,63.2
+Wrangell City and Borough,19,12,63.2
+Aleutians East,20,12,60.0
+Hoonah-Angoon,16,10,62.5
+Kusilvak,14,9,64.3
+Denali,14,9,64.3
+Lake and Peninsula,5,3,60.0
+Skagway,6,3,50.0
+Bristol Bay,4,2,50.0
+Yakutat City and Borough,2,1,50.0
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Health care personnel,35155,22623,64.4

@@ -1,0 +1,27 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Maricopa,361540,142455,39.4
+Pima,76190,30020,39.4
+Yuma,29972,11809,39.4
+Pinal,18813,7412,39.4
+Yavapai,13274,5230,39.4
+Mohave,11491,4527,39.4
+Coconino,10561,4161,39.4
+Cochise,7219,2844,39.4
+Navajo,6180,2435,39.4
+Apache,4499,1772,39.4
+Gila,3594,1416,39.4
+Santa Cruz,2717,1070,39.4
+Graham,2256,888,39.4
+La Paz,2174,856,39.4
+Greenlee,442,174,39.4
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Frontline essential workers,550922,217069,39.4

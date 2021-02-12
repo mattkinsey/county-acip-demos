@@ -1,0 +1,51 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+King,228064,68621,30.1
+Snohomish,98885,29753,30.1
+Pierce,59696,17961,30.1
+Yakima,45569,13711,30.1
+Spokane,45101,13570,30.1
+Clark,36481,10976,30.1
+Kitsap,29344,8829,30.1
+Whatcom,21922,6596,30.1
+Thurston,19119,5752,30.1
+Skagit,15386,4629,30.1
+Benton,13652,4107,30.1
+Cowlitz,11857,3567,30.1
+Grant,10164,3058,30.1
+Lewis,8062,2425,30.1
+Franklin,8019,2412,30.1
+Walla Walla,7217,2171,30.1
+Grays Harbor,6377,1918,30.1
+Chelan,5931,1784,30.1
+Clallam,5206,1566,30.1
+Whitman,4857,1461,30.1
+Island,4515,1358,30.1
+Douglas,4329,1302,30.1
+Adams,4040,1215,30.1
+Mason,3822,1149,30.1
+Okanogan,3514,1057,30.1
+Stevens,3258,980,30.1
+Kittitas,2952,888,30.1
+Klickitat,2626,790,30.1
+Jefferson,2470,743,30.1
+Pacific,2375,714,30.1
+Asotin,1494,449,30.1
+San Juan,1351,406,30.1
+Pend Oreille,899,270,30.0
+Lincoln,875,263,30.1
+Skamania,789,237,30.0
+Ferry,508,152,29.9
+Wahkiakum,382,114,29.8
+Columbia,326,98,30.1
+Garfield,93,27,29.0
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Frontline essential workers,721527,217079,30.1

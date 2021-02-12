@@ -1,0 +1,70 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Los Angeles,497845,307207,61.7
+San Diego,166775,102912,61.7
+Orange,161090,99404,61.7
+San Bernardino,102781,63423,61.7
+Santa Clara,101005,62327,61.7
+Riverside,92029,56788,61.7
+Alameda,80022,49379,61.7
+Sacramento,77002,47515,61.7
+Fresno,53195,32825,61.7
+Contra Costa,50656,31258,61.7
+San Francisco,50370,31082,61.7
+San Mateo,41969,25897,61.7
+Ventura,35814,22099,61.7
+Kern,31607,19503,61.7
+San Joaquin,31389,19369,61.7
+Stanislaus,26916,16609,61.7
+Sonoma,25561,15773,61.7
+Solano,22956,14165,61.7
+Santa Barbara,21685,13381,61.7
+Tulare,19781,12206,61.7
+Placer,19691,12150,61.7
+Monterey,18520,11428,61.7
+Marin,12596,7772,61.7
+San Luis Obispo,12302,7591,61.7
+Butte,11916,7353,61.7
+Shasta,11508,7101,61.7
+Santa Cruz,10570,6522,61.7
+Merced,8710,5374,61.7
+Napa,8663,5345,61.7
+Imperial,6424,3964,61.7
+El Dorado,6290,3881,61.7
+Yolo,6192,3820,61.7
+Humboldt,6005,3705,61.7
+Kings,5484,3384,61.7
+Madera,5120,3159,61.7
+Nevada,4317,2663,61.7
+Mendocino,3711,2289,61.7
+Sutter,2716,1675,61.7
+Lake,2231,1376,61.7
+Tehama,2084,1285,61.7
+Yuba,1883,1161,61.7
+Tuolumne,1791,1105,61.7
+Calaveras,1534,946,61.7
+Siskiyou,1423,878,61.7
+Amador,1078,665,61.7
+San Benito,961,593,61.7
+Lassen,936,577,61.6
+Del Norte,876,540,61.6
+Plumas,855,527,61.6
+Glenn,632,389,61.6
+Inyo,471,290,61.6
+Mariposa,375,231,61.6
+Colusa,291,179,61.5
+Trinity,208,128,61.5
+Modoc,196,120,61.2
+Mono,171,105,61.4
+Sierra,5,3,60.0
+Alpine,2,1,50.0
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Health care personnel,1869186,1153397,61.7

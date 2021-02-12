@@ -1,0 +1,70 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Los Angeles,577145,287709,49.9
+Orange,197487,98448,49.9
+San Diego,192351,95887,49.9
+Riverside,146890,73225,49.9
+Santa Clara,112180,55922,49.9
+San Bernardino,94151,46934,49.8
+Alameda,92047,45885,49.8
+Sacramento,86320,43030,49.8
+Contra Costa,72650,36216,49.8
+San Francisco,61007,30412,49.9
+Ventura,53850,26844,49.8
+San Mateo,53019,26430,49.9
+Fresno,49085,24469,49.9
+San Joaquin,38151,19018,49.8
+Kern,37550,18718,49.8
+Sonoma,36865,18377,49.8
+Placer,31675,15790,49.9
+Santa Barbara,30266,15087,49.8
+Stanislaus,28823,14368,49.8
+Solano,26258,13089,49.8
+Monterey,23874,11901,49.8
+Marin,23341,11635,49.8
+San Luis Obispo,22384,11158,49.8
+Tulare,21175,10555,49.8
+Butte,16973,8461,49.8
+Santa Cruz,15796,7874,49.8
+Shasta,14875,7415,49.8
+El Dorado,14727,7341,49.8
+Merced,12544,6253,49.8
+Napa,11230,5598,49.8
+Yolo,10992,5479,49.8
+Imperial,10023,4996,49.8
+Nevada,10020,4995,49.9
+Humboldt,8723,4348,49.8
+Madera,8435,4204,49.8
+Mendocino,6541,3260,49.8
+Sutter,6452,3216,49.8
+Kings,6315,3148,49.8
+Tuolumne,5663,2823,49.8
+Lake,5431,2707,49.8
+Tehama,5254,2619,49.8
+Calaveras,4972,2478,49.8
+Siskiyou,4007,1997,49.8
+Amador,3928,1958,49.8
+Yuba,3489,1739,49.8
+San Benito,3002,1496,49.8
+Mariposa,1997,995,49.8
+Glenn,1953,973,49.8
+Del Norte,1857,925,49.8
+Plumas,1829,911,49.8
+Inyo,1792,893,49.8
+Lassen,1717,855,49.8
+Trinity,1343,669,49.8
+Colusa,1212,604,49.8
+Modoc,1023,509,49.8
+Mono,679,338,49.8
+Sierra,351,174,49.6
+Alpine,81,40,49.4
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged 75+,2313770,1153398,49.8

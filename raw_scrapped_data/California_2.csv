@@ -1,0 +1,70 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Los Angeles,820558,266157,32.4
+Orange,301611,97830,32.4
+San Diego,276681,89744,32.4
+Santa Clara,254693,82612,32.4
+Alameda,171358,55581,32.4
+San Bernardino,168155,54542,32.4
+Riverside,164059,53214,32.4
+Kern,115392,37428,32.4
+Fresno,114617,37177,32.4
+Sacramento,112189,36389,32.4
+Ventura,98293,31882,32.4
+San Francisco,76973,24967,32.4
+San Joaquin,71568,23213,32.4
+Tulare,70835,22976,32.4
+Contra Costa,66367,21526,32.4
+San Mateo,65573,21269,32.4
+Stanislaus,61267,19872,32.4
+Monterey,61185,19846,32.4
+Sonoma,53513,17357,32.4
+Santa Barbara,51762,16789,32.4
+Solano,32607,10576,32.4
+San Luis Obispo,27859,9036,32.4
+Placer,25555,8289,32.4
+Santa Cruz,25368,8228,32.4
+Merced,25243,8187,32.4
+Yolo,24133,7827,32.4
+Marin,21121,6850,32.4
+Napa,20642,6695,32.4
+Kings,16795,5447,32.4
+Butte,16499,5351,32.4
+Imperial,15991,5186,32.4
+Madera,15120,4904,32.4
+Shasta,12823,4159,32.4
+El Dorado,12072,3915,32.4
+Humboldt,10461,3393,32.4
+Mendocino,8638,2801,32.4
+Sutter,8332,2702,32.4
+Nevada,6956,2256,32.4
+San Benito,6034,1957,32.4
+Tehama,5017,1627,32.4
+Yuba,4709,1527,32.4
+Colusa,4562,1479,32.4
+Tuolumne,4548,1475,32.4
+Lake,4511,1463,32.4
+Glenn,4211,1365,32.4
+Siskiyou,3404,1104,32.4
+Amador,3010,976,32.4
+Calaveras,2795,906,32.4
+Lassen,1763,571,32.4
+Del Norte,1670,541,32.4
+Plumas,1564,507,32.4
+Inyo,1417,459,32.4
+Mariposa,1105,358,32.4
+Mono,853,276,32.4
+Trinity,843,273,32.4
+Modoc,830,269,32.4
+Sierra,210,68,32.4
+Alpine,71,23,32.4
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Frontline essential workers,3555991,1153397,32.4

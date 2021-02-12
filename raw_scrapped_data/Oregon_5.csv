@@ -1,0 +1,48 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Multnomah,165960,21994,13.3
+Washington,121419,16091,13.3
+Lane,92337,12237,13.3
+Marion,85842,11376,13.3
+Clackamas,85641,11349,13.3
+Jackson,49673,6583,13.3
+Deschutes,38415,5091,13.3
+Linn,31766,4209,13.3
+Douglas,28483,3774,13.3
+Yamhill,27330,3621,13.2
+Josephine,20676,2740,13.3
+Umatilla,20357,2697,13.2
+Polk,18716,2480,13.3
+Coos,17169,2275,13.3
+Benton,14403,1908,13.2
+Columbia,13702,1815,13.2
+Klamath,13528,1792,13.2
+Lincoln,11436,1515,13.2
+Clatsop,8735,1157,13.2
+Malheur,8439,1118,13.2
+Union,6765,896,13.2
+Tillamook,6418,850,13.2
+Crook,5969,791,13.3
+Wasco,5934,786,13.2
+Jefferson,5716,757,13.2
+Curry,4921,652,13.2
+Hood River,4892,648,13.2
+Baker,3615,479,13.3
+Morrow,2932,388,13.2
+Lake,2160,286,13.2
+Harney,1847,244,13.2
+Grant,1563,207,13.2
+Wallowa,1338,177,13.2
+Gilliam,425,56,13.2
+Sherman,401,53,13.2
+Wheeler,298,39,13.1
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged 18-64 w cormorbidities,929221,123131,13.3

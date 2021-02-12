@@ -1,0 +1,36 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Prince George's,262567,32815,12.5
+Baltimore,198891,24857,12.5
+Montgomery,178777,22343,12.5
+Baltimore City,168416,21048,12.5
+Anne Arundel,137618,17199,12.5
+Harford,66201,8273,12.5
+Frederick,61023,7626,12.5
+Howard,57334,7165,12.5
+Charles,49010,6125,12.5
+Washington,43966,5494,12.5
+Carroll,33614,4201,12.5
+St. Mary's,33204,4149,12.5
+Wicomico,28723,3589,12.5
+Cecil,26578,3321,12.5
+Calvert,22807,2850,12.5
+Allegany,19899,2486,12.5
+Worcester,12108,1513,12.5
+Caroline,10732,1341,12.5
+Queen Anne's,10457,1306,12.5
+Dorchester,9424,1177,12.5
+Somerset,8083,1010,12.5
+Garrett,7034,879,12.5
+Talbot,6906,863,12.5
+Kent,4428,553,12.5
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged 18-64 w cormorbidities,1457800,182183,12.5

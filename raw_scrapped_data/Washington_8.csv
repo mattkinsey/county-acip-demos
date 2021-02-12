@@ -1,0 +1,51 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+King,163665,47900,29.3
+Pierce,103629,30329,29.3
+Snohomish,83045,24305,29.3
+Spokane,56726,16602,29.3
+Clark,52043,15231,29.3
+Thurston,29514,8637,29.3
+Kitsap,26165,7657,29.3
+Yakima,25577,7485,29.3
+Whatcom,25525,7470,29.3
+Benton,19577,5729,29.3
+Cowlitz,15187,4444,29.3
+Skagit,13179,3857,29.3
+Grant,11139,3260,29.3
+Lewis,10098,2955,29.3
+Franklin,9100,2663,29.3
+Clallam,8939,2616,29.3
+Grays Harbor,8900,2604,29.3
+Mason,8427,2466,29.3
+Island,8371,2449,29.3
+Chelan,7838,2293,29.3
+Whitman,6374,1865,29.3
+Walla Walla,6373,1865,29.3
+Okanogan,5624,1645,29.2
+Kittitas,5437,1591,29.3
+Stevens,5409,1583,29.3
+Douglas,4495,1315,29.3
+Jefferson,3349,980,29.3
+Pacific,2790,816,29.2
+Asotin,2573,753,29.3
+Klickitat,2519,737,29.3
+Adams,1872,547,29.2
+San Juan,1787,523,29.3
+Pend Oreille,1674,489,29.2
+Skamania,1464,428,29.2
+Lincoln,1123,328,29.2
+Ferry,1099,321,29.2
+Wahkiakum,474,138,29.1
+Columbia,462,135,29.2
+Garfield,234,68,29.1
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged 16+ and smoker,741776,217079,29.3

@@ -1,0 +1,41 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Salt Lake,86809,39082,45.0
+Utah,26943,12130,45.0
+Davis,22666,10204,45.0
+Weber,20777,9354,45.0
+Washington,11643,5241,45.0
+Cache,8301,3737,45.0
+Tooele,4872,2193,45.0
+Iron,4254,1915,45.0
+Box Elder,3923,1766,45.0
+Uintah,3312,1491,45.0
+Summit,2953,1329,45.0
+Sanpete,2582,1162,45.0
+Wasatch,1897,854,45.0
+Carbon,1884,848,45.0
+San Juan,1763,793,45.0
+Sevier,1588,714,45.0
+Duchesne,1554,699,45.0
+Emery,896,403,45.0
+Grand,868,390,44.9
+Millard,848,381,44.9
+Juab,798,359,45.0
+Morgan,659,296,44.9
+Kane,545,245,45.0
+Beaver,515,231,44.9
+Garfield,400,180,45.0
+Wayne,194,87,44.8
+Rich,182,81,44.5
+Piute,137,61,44.5
+Daggett,35,15,42.9
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Aged 16+ and smoker,213798,96241,45.0

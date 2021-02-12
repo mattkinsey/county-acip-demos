@@ -1,0 +1,79 @@
+﻿BY COUNTY 
+
+
+County,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Miami-Dade,156366,89407,57.2
+Broward,107181,61284,57.2
+Palm Beach,95019,54330,57.2
+Hillsborough,83483,47733,57.2
+Orange,77119,44095,57.2
+Duval,69456,39713,57.2
+Pinellas,68116,38947,57.2
+Lee,38071,21768,57.2
+Brevard,31284,17887,57.2
+Sarasota,30202,17268,57.2
+Volusia,28477,16282,57.2
+Polk,26609,15214,57.2
+Pasco,21039,12029,57.2
+Escambia,20779,11881,57.2
+Leon,20638,11800,57.2
+Collier,18902,10807,57.2
+Seminole,18862,10784,57.2
+Lake,18349,10491,57.2
+Alachua,17663,10099,57.2
+Manatee,15846,9060,57.2
+Marion,15546,8888,57.2
+Osceola,13480,7707,57.2
+Martin,12498,7146,57.2
+St. Lucie,11019,6300,57.2
+Charlotte,9216,5269,57.2
+St. Johns,9090,5197,57.2
+Indian River,8921,5100,57.2
+Hernando,8286,4737,57.2
+Clay,8219,4699,57.2
+Okaloosa,7942,4541,57.2
+Bay,7609,4350,57.2
+Citrus,6860,3922,57.2
+Sumter,6024,3444,57.2
+Santa Rosa,4742,2711,57.2
+Highlands,4513,2580,57.2
+Columbia,4088,2337,57.2
+Flagler,3090,1766,57.2
+Monroe,2877,1645,57.2
+Nassau,2666,1524,57.2
+Putnam,2439,1394,57.2
+Walton,2026,1158,57.2
+Okeechobee,1671,955,57.2
+Suwannee,1619,925,57.1
+Jackson,1594,911,57.2
+DeSoto,1274,728,57.1
+Baker,845,483,57.2
+Bradford,833,476,57.1
+Madison,828,473,57.1
+Hendry,822,470,57.2
+Washington,798,456,57.1
+Levy,713,407,57.1
+Hardee,687,392,57.1
+Gadsden,641,366,57.1
+Gulf,640,365,57.0
+Calhoun,624,356,57.1
+Taylor,592,338,57.1
+Union,470,268,57.0
+Gilchrist,457,261,57.1
+Wakulla,419,239,57.0
+Holmes,360,205,56.9
+Franklin,339,193,56.9
+Dixie,264,150,56.8
+Hamilton,245,140,57.1
+Glades,202,115,56.9
+Lafayette,190,108,56.8
+Jefferson,170,97,57.1
+Liberty,119,68,57.1
+
+
+
+ BY POPULATION 
+
+
+CATEGORY,Total Eligible People,Courses Allocated,Vaccine Allocation%
+Health care personnel,1132028,647239,57.2
