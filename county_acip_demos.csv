@@ -11844,6 +11844,16 @@ adm2,group,phase,group_name,total_eligible
 24003,7,1c,Aged 15-49 and prgnant,5724
 24003,8,1c,Aged 16+ and smoker,63931
 24003,9,1c,Other essential workers,129490
+24005,0,1a,Health care personnel,64577
+24005,1,1a,Long-term care facillity residents,7783
+24005,2,1b,Frontline essential workers,61819
+24005,3,1b,Aged 75+,61926
+24005,4,1c,Aged 65-74,77330
+24005,5,1c,Aged 18-64 w cormorbidities,198891
+24005,6,1c,Aged under 65 w cancer,6846
+24005,7,1c,Aged 15-49 and prgnant,8507
+24005,8,1c,Aged 16+ and smoker,132533
+24005,9,1c,Other essential workers,154003
 24009,0,1a,Health care personnel,3222
 24009,1,1a,Long-term care facillity residents,356
 24009,2,1b,Frontline essential workers,5948
@@ -12045,24 +12055,14 @@ adm2,group,phase,group_name,total_eligible
 24047,8,1c,Aged 16+ and smoker,6138
 24047,9,1c,Other essential workers,10965
 24510,0,1a,Health care personnel,76788
-24510,0,1a,Health care personnel,64577
-24510,1,1a,Long-term care facillity residents,7783
 24510,1,1a,Long-term care facillity residents,6524
-24510,2,1b,Frontline essential workers,61819
 24510,2,1b,Frontline essential workers,49866
-24510,3,1b,Aged 75+,61926
 24510,3,1b,Aged 75+,33780
-24510,4,1c,Aged 65-74,77330
 24510,4,1c,Aged 65-74,48941
-24510,5,1c,Aged 18-64 w cormorbidities,198891
 24510,5,1c,Aged 18-64 w cormorbidities,168416
-24510,6,1c,Aged under 65 w cancer,6846
 24510,6,1c,Aged under 65 w cancer,5186
-24510,7,1c,Aged 15-49 and prgnant,8507
 24510,7,1c,Aged 15-49 and prgnant,7273
-24510,8,1c,Aged 16+ and smoker,132533
 24510,8,1c,Aged 16+ and smoker,64479
-24510,9,1c,Other essential workers,154003
 24510,9,1c,Other essential workers,127354
 25001,0,1a,Health care personnel,14729
 25001,1,1a,Long-term care facillity residents,1848
@@ -15658,6 +15658,16 @@ adm2,group,phase,group_name,total_eligible
 29187,7,1c,Aged 15-49 and prgnant,589
 29187,8,1c,Aged 16+ and smoker,11838
 29187,9,1c,Other essential workers,9129
+29189,0,1a,Health care personnel,84737
+29189,1,1a,Long-term care facillity residents,10887
+29189,2,1b,Frontline essential workers,108556
+29189,3,1b,Aged 75+,78102
+29189,4,1c,Aged 65-74,98048
+29189,5,1c,Aged 18-64 w cormorbidities,221758
+29189,6,1c,Aged under 65 w cancer,8049
+29189,7,1c,Aged 15-49 and prgnant,10162
+29189,8,1c,Aged 16+ and smoker,197722
+29189,9,1c,Other essential workers,208366
 29195,0,1a,Health care personnel,1209
 29195,1,1a,Long-term care facillity residents,389
 29195,2,1b,Frontline essential workers,3513
@@ -15838,25 +15848,15 @@ adm2,group,phase,group_name,total_eligible
 29229,7,1c,Aged 15-49 and prgnant,156
 29229,8,1c,Aged 16+ and smoker,3457
 29229,9,1c,Other essential workers,1387
-29510,0,1a,Health care personnel,84737
 29510,0,1a,Health care personnel,45929
-29510,1,1a,Long-term care facillity residents,10887
 29510,1,1a,Long-term care facillity residents,2654
-29510,2,1b,Frontline essential workers,108556
 29510,2,1b,Frontline essential workers,34189
-29510,3,1b,Aged 75+,78102
 29510,3,1b,Aged 75+,16224
-29510,4,1c,Aged 65-74,98048
 29510,4,1c,Aged 65-74,24252
-29510,5,1c,Aged 18-64 w cormorbidities,221758
 29510,5,1c,Aged 18-64 w cormorbidities,96243
-29510,6,1c,Aged under 65 w cancer,8049
 29510,6,1c,Aged under 65 w cancer,2627
-29510,7,1c,Aged 15-49 and prgnant,10162
 29510,7,1c,Aged 15-49 and prgnant,3812
-29510,8,1c,Aged 16+ and smoker,197722
 29510,8,1c,Aged 16+ and smoker,40541
-29510,9,1c,Other essential workers,208366
 29510,9,1c,Other essential workers,78880
 30001,0,1a,Health care personnel,410
 30001,1,1a,Long-term care facillity residents,90
@@ -28019,6 +28019,16 @@ adm2,group,phase,group_name,total_eligible
 51017,7,1c,Aged 15-49 and prgnant,43
 51017,8,1c,Aged 16+ and smoker,615
 51017,9,1c,Other essential workers,385
+51019,0,1a,Health care personnel,2660
+51019,1,1a,Long-term care facillity residents,648
+51019,2,1b,Frontline essential workers,5393
+51019,3,1b,Aged 75+,6570
+51019,4,1c,Aged 65-74,9773
+51019,5,1c,Aged 18-64 w cormorbidities,17521
+51019,6,1c,Aged under 65 w cancer,611
+51019,7,1c,Aged 15-49 and prgnant,654
+51019,8,1c,Aged 16+ and smoker,9676
+51019,9,1c,Other essential workers,6285
 51021,0,1a,Health care personnel,105
 51021,1,1a,Long-term care facillity residents,51
 51021,2,1b,Frontline essential workers,947
@@ -28195,6 +28205,16 @@ adm2,group,phase,group_name,total_eligible
 51057,7,1c,Aged 15-49 and prgnant,99
 51057,8,1c,Aged 16+ and smoker,1526
 51057,9,1c,Other essential workers,1326
+51059,0,1a,Health care personnel,65561
+51059,1,1a,Long-term care facillity residents,4600
+51059,2,1b,Frontline essential workers,71171
+51059,3,1b,Aged 75+,58328
+51059,4,1c,Aged 65-74,91595
+51059,5,1c,Aged 18-64 w cormorbidities,156976
+51059,6,1c,Aged under 65 w cancer,6672
+51059,7,1c,Aged 15-49 and prgnant,11941
+51059,8,1c,Aged 16+ and smoker,117866
+51059,9,1c,Other essential workers,204559
 51061,0,1a,Health care personnel,2526
 51061,1,1a,Long-term care facillity residents,335
 51061,2,1b,Frontline essential workers,5325
@@ -28225,6 +28245,16 @@ adm2,group,phase,group_name,total_eligible
 51065,7,1c,Aged 15-49 and prgnant,285
 51065,8,1c,Aged 16+ and smoker,3059
 51065,9,1c,Other essential workers,1948
+51067,0,1a,Health care personnel,1753
+51067,1,1a,Long-term care facillity residents,420
+51067,2,1b,Frontline essential workers,6531
+51067,3,1b,Aged 75+,4975
+51067,4,1c,Aged 65-74,7822
+51067,5,1c,Aged 18-64 w cormorbidities,14616
+51067,6,1c,Aged under 65 w cancer,383
+51067,7,1c,Aged 15-49 and prgnant,472
+51067,8,1c,Aged 16+ and smoker,9280
+51067,9,1c,Other essential workers,4592
 51069,0,1a,Health care personnel,2460
 51069,1,1a,Long-term care facillity residents,413
 51069,2,1b,Frontline essential workers,11043
@@ -28635,6 +28665,26 @@ adm2,group,phase,group_name,total_eligible
 51157,7,1c,Aged 15-49 and prgnant,53
 51157,8,1c,Aged 16+ and smoker,817
 51157,9,1c,Other essential workers,780
+51159,0,1a,Health care personnel,149
+51159,1,1a,Long-term care facillity residents,174
+51159,2,1b,Frontline essential workers,661
+51159,3,1b,Aged 75+,1012
+51159,4,1c,Aged 65-74,869
+51159,5,1c,Aged 18-64 w cormorbidities,2413
+51159,6,1c,Aged under 65 w cancer,89
+51159,7,1c,Aged 15-49 and prgnant,48
+51159,8,1c,Aged 16+ and smoker,1491
+51159,9,1c,Other essential workers,986
+51161,0,1a,Health care personnel,5688
+51161,1,1a,Long-term care facillity residents,1083
+51161,2,1b,Frontline essential workers,8462
+51161,3,1b,Aged 75+,8588
+51161,4,1c,Aged 65-74,11255
+51161,5,1c,Aged 18-64 w cormorbidities,20416
+51161,6,1c,Aged under 65 w cancer,743
+51161,7,1c,Aged 15-49 and prgnant,855
+51161,8,1c,Aged 16+ and smoker,15295
+51161,9,1c,Other essential workers,12500
 51163,0,1a,Health care personnel,483
 51163,1,1a,Long-term care facillity residents,175
 51163,2,1b,Frontline essential workers,2600
@@ -28824,16 +28874,6 @@ adm2,group,phase,group_name,total_eligible
 51510,7,1c,Aged 15-49 and prgnant,2062
 51510,8,1c,Aged 16+ and smoker,19670
 51510,9,1c,Other essential workers,29967
-51515,0,1a,Health care personnel,2660
-51515,1,1a,Long-term care facillity residents,648
-51515,2,1b,Frontline essential workers,5393
-51515,3,1b,Aged 75+,6570
-51515,4,1c,Aged 65-74,9773
-51515,5,1c,Aged 18-64 w cormorbidities,17521
-51515,6,1c,Aged under 65 w cancer,611
-51515,7,1c,Aged 15-49 and prgnant,654
-51515,8,1c,Aged 16+ and smoker,9676
-51515,9,1c,Other essential workers,6285
 51520,0,1a,Health care personnel,782
 51520,1,1a,Long-term care facillity residents,338
 51520,2,1b,Frontline essential workers,3001
@@ -28913,25 +28953,15 @@ adm2,group,phase,group_name,total_eligible
 51595,7,1c,Aged 15-49 and prgnant,56
 51595,8,1c,Aged 16+ and smoker,957
 51595,9,1c,Other essential workers,1297
-51600,0,1a,Health care personnel,65561
 51600,0,1a,Health care personnel,2268
-51600,1,1a,Long-term care facillity residents,4600
 51600,1,1a,Long-term care facillity residents,253
-51600,2,1b,Frontline essential workers,71171
 51600,2,1b,Frontline essential workers,1030
-51600,3,1b,Aged 75+,58328
 51600,3,1b,Aged 75+,1524
-51600,4,1c,Aged 65-74,91595
 51600,4,1c,Aged 65-74,1974
-51600,5,1c,Aged 18-64 w cormorbidities,156976
 51600,5,1c,Aged 18-64 w cormorbidities,4071
-51600,6,1c,Aged under 65 w cancer,6672
 51600,6,1c,Aged under 65 w cancer,149
-51600,7,1c,Aged 15-49 and prgnant,11941
 51600,7,1c,Aged 15-49 and prgnant,238
-51600,8,1c,Aged 16+ and smoker,117866
 51600,8,1c,Aged 16+ and smoker,1726
-51600,9,1c,Other essential workers,204559
 51600,9,1c,Other essential workers,8836
 51610,0,1a,Health care personnel,1812
 51610,1,1a,Long-term care facillity residents,75
@@ -28943,25 +28973,15 @@ adm2,group,phase,group_name,total_eligible
 51610,7,1c,Aged 15-49 and prgnant,138
 51610,8,1c,Aged 16+ and smoker,1437
 51610,9,1c,Other essential workers,4243
-51620,0,1a,Health care personnel,1753
 51620,0,1a,Health care personnel,698
-51620,1,1a,Long-term care facillity residents,420
 51620,1,1a,Long-term care facillity residents,179
-51620,2,1b,Frontline essential workers,6531
 51620,2,1b,Frontline essential workers,426
-51620,3,1b,Aged 75+,4975
 51620,3,1b,Aged 75+,647
-51620,4,1c,Aged 65-74,7822
 51620,4,1c,Aged 65-74,924
-51620,5,1c,Aged 18-64 w cormorbidities,14616
 51620,5,1c,Aged 18-64 w cormorbidities,2265
-51620,6,1c,Aged under 65 w cancer,383
 51620,6,1c,Aged under 65 w cancer,81
-51620,7,1c,Aged 15-49 and prgnant,472
 51620,7,1c,Aged 15-49 and prgnant,77
-51620,8,1c,Aged 16+ and smoker,9280
 51620,8,1c,Aged 16+ and smoker,984
-51620,9,1c,Other essential workers,4592
 51620,9,1c,Other essential workers,1362
 51630,0,1a,Health care personnel,3112
 51630,1,1a,Long-term care facillity residents,178
@@ -29133,45 +29153,25 @@ adm2,group,phase,group_name,total_eligible
 51750,8,1c,Aged 16+ and smoker,3508
 51750,9,1c,Other essential workers,2060
 51760,0,1a,Health care personnel,26659
-51760,0,1a,Health care personnel,149
 51760,1,1a,Long-term care facillity residents,2716
-51760,1,1a,Long-term care facillity residents,174
 51760,2,1b,Frontline essential workers,19566
-51760,2,1b,Frontline essential workers,661
 51760,3,1b,Aged 75+,11648
-51760,3,1b,Aged 75+,1012
 51760,4,1c,Aged 65-74,17437
-51760,4,1c,Aged 65-74,869
 51760,5,1c,Aged 18-64 w cormorbidities,59765
-51760,5,1c,Aged 18-64 w cormorbidities,2413
 51760,6,1c,Aged under 65 w cancer,1703
-51760,6,1c,Aged under 65 w cancer,89
 51760,7,1c,Aged 15-49 and prgnant,2968
-51760,7,1c,Aged 15-49 and prgnant,48
 51760,8,1c,Aged 16+ and smoker,35964
-51760,8,1c,Aged 16+ and smoker,1491
 51760,9,1c,Other essential workers,62000
-51760,9,1c,Other essential workers,986
-51770,0,1a,Health care personnel,5688
 51770,0,1a,Health care personnel,4635
 51770,1,1a,Long-term care facillity residents,1769
-51770,1,1a,Long-term care facillity residents,1083
-51770,2,1b,Frontline essential workers,8462
 51770,2,1b,Frontline essential workers,7536
-51770,3,1b,Aged 75+,8588
 51770,3,1b,Aged 75+,6682
-51770,4,1c,Aged 65-74,11255
 51770,4,1c,Aged 65-74,9306
 51770,5,1c,Aged 18-64 w cormorbidities,28306
-51770,5,1c,Aged 18-64 w cormorbidities,20416
 51770,6,1c,Aged under 65 w cancer,786
-51770,6,1c,Aged under 65 w cancer,743
 51770,7,1c,Aged 15-49 and prgnant,1034
-51770,7,1c,Aged 15-49 and prgnant,855
-51770,8,1c,Aged 16+ and smoker,15295
 51770,8,1c,Aged 16+ and smoker,11881
 51770,9,1c,Other essential workers,25242
-51770,9,1c,Other essential workers,12500
 51775,0,1a,Health care personnel,4102
 51775,1,1a,Long-term care facillity residents,396
 51775,2,1b,Frontline essential workers,4360

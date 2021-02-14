@@ -45,6 +45,11 @@ for state in states:
 
         else:
             group_map[num] = group_name
+        #from IPython import embed
+        #embed()
+        cities = data.County.str.contains(' City')
+        if cities.any() and state != 'Alaska':
+            data['County'][~cities] = data.County.loc[~cities] + ' County'
         data = data.iloc[:-3].set_index('County').astype(float).reset_index()
         county_mapper = partial(af.get_county_fips, state=state)
         #print(data)
@@ -58,6 +63,8 @@ for state in states:
         
         unmapped = data.loc[data.adm2.isna()]
         if len(unmapped):
+            #from IPython import embed
+            #embed()
             print(state, unmapped.County)
         dfs.append(data)
 
