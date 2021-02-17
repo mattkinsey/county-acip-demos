@@ -69,6 +69,7 @@ for state in states:
         dfs.append(data)
 
 df = pd.concat(dfs)
+
 df.drop(columns=['Courses Allocated', 'Vaccine Allocation%'], inplace=True)
 df['adm2'] = df['adm2'].astype(int)
 df['group'] = df['group'].astype(int)
@@ -77,4 +78,19 @@ df.drop(columns=['County'], inplace=True)
 df.rename(columns={'Total Eligible People': 'total_eligible'}, inplace=True)
 df = df[['phase','group_name','total_eligible']]
 df['total_eligible'] = df['total_eligible'].astype(int)
+
+#insert zeros for any missing rows
+# there's probably a better way to do this...
+new_index = pd.MultiIndex.from_product(df.index.levels)
+final_df = df.reindex(new_index)
+nan_rows = final_df.loc[final_df.isna().any(1)]
+nan_rows['total_eligible'] = 0
+for group in nan_rows.reset_index().group.unique():
+    tmp = df.reset_index().set_index('group').loc[group].head(1)
+    nan_rows.loc[nan_rows.index.get_level_values('group')== group,'phase'] = tmp.phase.item()
+    nan_rows.loc[nan_rows.index.get_level_values('group')== group,'group_name'] = tmp.group_name.item()
+
+df = df.reset_index().merge(nan_rows.reset_index(), how='outer')
+df = df.set_index(['adm2', 'group']).sort_index()
+
 df.to_csv('county_acip_demos.csv', index=True)

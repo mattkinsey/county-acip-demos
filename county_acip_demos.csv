@@ -140,6 +140,7 @@ adm2,group,phase,group_name,total_eligible
 1027,8,1c,Aged 16+ and smoker,2150
 1027,9,1c,Other essential workers,839
 1029,0,1a,Health care personnel,220
+1029,1,1a,Long-term care facillity residents,0
 1029,2,1b,Frontline essential workers,976
 1029,3,1b,Aged 75+,1203
 1029,4,1c,Aged 65-74,1696
@@ -649,6 +650,7 @@ adm2,group,phase,group_name,total_eligible
 1129,8,1c,Aged 16+ and smoker,2752
 1129,9,1c,Other essential workers,1259
 1131,0,1a,Health care personnel,340
+1131,1,1a,Long-term care facillity residents,0
 1131,2,1b,Frontline essential workers,1581
 1131,3,1b,Aged 75+,834
 1131,4,1c,Aged 65-74,1192
@@ -668,6 +670,7 @@ adm2,group,phase,group_name,total_eligible
 1133,8,1c,Aged 16+ and smoker,3858
 1133,9,1c,Other essential workers,1858
 2013,0,1a,Health care personnel,20
+2013,1,1a,Long-term care facillity residents,0
 2013,2,1b,Frontline essential workers,2271
 2013,3,1b,Aged 75+,110
 2013,4,1c,Aged 65-74,208
@@ -677,6 +680,7 @@ adm2,group,phase,group_name,total_eligible
 2013,8,1c,Aged 16+ and smoker,501
 2013,9,1c,Other essential workers,270
 2016,0,1a,Health care personnel,85
+2016,1,1a,Long-term care facillity residents,0
 2016,2,1b,Frontline essential workers,2778
 2016,3,1b,Aged 75+,90
 2016,4,1c,Aged 65-74,257
@@ -706,6 +710,7 @@ adm2,group,phase,group_name,total_eligible
 2050,8,1c,Aged 16+ and smoker,3612
 2050,9,1c,Other essential workers,2504
 2060,0,1a,Health care personnel,4
+2060,1,1a,Long-term care facillity residents,0
 2060,2,1b,Frontline essential workers,108
 2060,3,1b,Aged 75+,34
 2060,4,1c,Aged 65-74,53
@@ -715,6 +720,7 @@ adm2,group,phase,group_name,total_eligible
 2060,8,1c,Aged 16+ and smoker,129
 2060,9,1c,Other essential workers,88
 2068,0,1a,Health care personnel,14
+2068,1,1a,Long-term care facillity residents,0
 2068,2,1b,Frontline essential workers,103
 2068,3,1b,Aged 75+,64
 2068,4,1c,Aged 65-74,145
@@ -754,6 +760,7 @@ adm2,group,phase,group_name,total_eligible
 2100,8,1c,Aged 16+ and smoker,304
 2100,9,1c,Other essential workers,189
 2105,0,1a,Health care personnel,16
+2105,1,1a,Long-term care facillity residents,0
 2105,2,1b,Frontline essential workers,208
 2105,3,1b,Aged 75+,116
 2105,4,1c,Aged 65-74,323
@@ -803,6 +810,7 @@ adm2,group,phase,group_name,total_eligible
 2150,8,1c,Aged 16+ and smoker,1544
 2150,9,1c,Other essential workers,1440
 2158,0,1a,Health care personnel,14
+2158,1,1a,Long-term care facillity residents,0
 2158,2,1b,Frontline essential workers,477
 2158,3,1b,Aged 75+,142
 2158,4,1c,Aged 65-74,312
@@ -812,6 +820,7 @@ adm2,group,phase,group_name,total_eligible
 2158,8,1c,Aged 16+ and smoker,2059
 2158,9,1c,Other essential workers,609
 2164,0,1a,Health care personnel,5
+2164,1,1a,Long-term care facillity residents,0
 2164,2,1b,Frontline essential workers,90
 2164,3,1b,Aged 75+,47
 2164,4,1c,Aged 65-74,62
@@ -871,6 +880,7 @@ adm2,group,phase,group_name,total_eligible
 2195,8,1c,Aged 16+ and smoker,401
 2195,9,1c,Other essential workers,337
 2198,0,1a,Health care personnel,45
+2198,1,1a,Long-term care facillity residents,0
 2198,2,1b,Frontline essential workers,441
 2198,3,1b,Aged 75+,293
 2198,4,1c,Aged 65-74,734
@@ -890,6 +900,7 @@ adm2,group,phase,group_name,total_eligible
 2220,8,1c,Aged 16+ and smoker,1113
 2220,9,1c,Other essential workers,1257
 2230,0,1a,Health care personnel,6
+2230,1,1a,Long-term care facillity residents,0
 2230,2,1b,Frontline essential workers,73
 2230,3,1b,Aged 75+,40
 2230,4,1c,Aged 65-74,90
@@ -908,6 +919,7 @@ adm2,group,phase,group_name,total_eligible
 2240,7,1c,Aged 15-49 and prgnant,71
 2240,8,1c,Aged 16+ and smoker,1026
 2240,9,1c,Other essential workers,880
+2261,0,1a,Health care personnel,0
 2261,1,1a,Long-term care facillity residents,18
 2261,2,1b,Frontline essential workers,92
 2261,3,1b,Aged 75+,242
@@ -916,6 +928,7 @@ adm2,group,phase,group_name,total_eligible
 2261,6,1c,Aged under 65 w cancer,59
 2261,7,1c,Aged 15-49 and prgnant,104
 2261,8,1c,Aged 16+ and smoker,1228
+2261,9,1c,Other essential workers,0
 2275,0,1a,Health care personnel,19
 2275,1,1a,Long-term care facillity residents,95
 2275,2,1b,Frontline essential workers,134
@@ -927,6 +940,7 @@ adm2,group,phase,group_name,total_eligible
 2275,8,1c,Aged 16+ and smoker,355
 2275,9,1c,Other essential workers,158
 2282,0,1a,Health care personnel,2
+2282,1,1a,Long-term care facillity residents,0
 2282,2,1b,Frontline essential workers,29
 2282,3,1b,Aged 75+,38
 2282,4,1c,Aged 65-74,56
@@ -936,6 +950,7 @@ adm2,group,phase,group_name,total_eligible
 2282,8,1c,Aged 16+ and smoker,101
 2282,9,1c,Other essential workers,53
 2290,0,1a,Health care personnel,82
+2290,1,1a,Long-term care facillity residents,0
 2290,2,1b,Frontline essential workers,926
 2290,3,1b,Aged 75+,237
 2290,4,1c,Aged 65-74,533
@@ -995,6 +1010,7 @@ adm2,group,phase,group_name,total_eligible
 4009,8,1c,Aged 16+ and smoker,5149
 4009,9,1c,Other essential workers,3493
 4011,0,1a,Health care personnel,30
+4011,1,1a,Long-term care facillity residents,0
 4011,2,1b,Frontline essential workers,442
 4011,3,1b,Aged 75+,563
 4011,4,1c,Aged 65-74,615
@@ -1004,6 +1020,7 @@ adm2,group,phase,group_name,total_eligible
 4011,8,1c,Aged 16+ and smoker,1006
 4011,9,1c,Other essential workers,504
 4012,0,1a,Health care personnel,746
+4012,1,1a,Long-term care facillity residents,0
 4012,2,1b,Frontline essential workers,2174
 4012,3,1b,Aged 75+,4161
 4012,4,1c,Aged 65-74,3864
@@ -1153,6 +1170,7 @@ adm2,group,phase,group_name,total_eligible
 5011,8,1c,Aged 16+ and smoker,1858
 5011,9,1c,Other essential workers,830
 5013,0,1a,Health care personnel,36
+5013,1,1a,Long-term care facillity residents,0
 5013,2,1b,Frontline essential workers,2762
 5013,3,1b,Aged 75+,518
 5013,4,1c,Aged 65-74,584
@@ -1852,6 +1870,7 @@ adm2,group,phase,group_name,total_eligible
 6001,8,1c,Aged 16+ and smoker,136199
 6001,9,1c,Other essential workers,271857
 6003,0,1a,Health care personnel,2
+6003,1,1a,Long-term care facillity residents,0
 6003,2,1b,Frontline essential workers,71
 6003,3,1b,Aged 75+,81
 6003,4,1c,Aged 65-74,230
@@ -2091,6 +2110,7 @@ adm2,group,phase,group_name,total_eligible
 6049,8,1c,Aged 16+ and smoker,1031
 6049,9,1c,Other essential workers,904
 6051,0,1a,Health care personnel,171
+6051,1,1a,Long-term care facillity residents,0
 6051,2,1b,Frontline essential workers,853
 6051,3,1b,Aged 75+,679
 6051,4,1c,Aged 65-74,1370
@@ -2290,6 +2310,7 @@ adm2,group,phase,group_name,total_eligible
 6089,8,1c,Aged 16+ and smoker,20255
 6089,9,1c,Other essential workers,25029
 6091,0,1a,Health care personnel,5
+6091,1,1a,Long-term care facillity residents,0
 6091,2,1b,Frontline essential workers,210
 6091,3,1b,Aged 75+,351
 6091,4,1c,Aged 65-74,541
@@ -2519,6 +2540,7 @@ adm2,group,phase,group_name,total_eligible
 8017,8,1c,Aged 16+ and smoker,207
 8017,9,1c,Other essential workers,245
 8019,0,1a,Health care personnel,131
+8019,1,1a,Long-term care facillity residents,0
 8019,2,1b,Frontline essential workers,592
 8019,3,1b,Aged 75+,508
 8019,4,1c,Aged 65-74,1338
@@ -2538,6 +2560,7 @@ adm2,group,phase,group_name,total_eligible
 8021,8,1c,Aged 16+ and smoker,988
 8021,9,1c,Other essential workers,641
 8023,0,1a,Health care personnel,48
+8023,1,1a,Long-term care facillity residents,0
 8023,2,1b,Frontline essential workers,288
 8023,3,1b,Aged 75+,394
 8023,4,1c,Aged 65-74,629
@@ -2547,6 +2570,7 @@ adm2,group,phase,group_name,total_eligible
 8023,8,1c,Aged 16+ and smoker,537
 8023,9,1c,Other essential workers,204
 8025,0,1a,Health care personnel,72
+8025,1,1a,Long-term care facillity residents,0
 8025,2,1b,Frontline essential workers,281
 8025,3,1b,Aged 75+,294
 8025,4,1c,Aged 65-74,476
@@ -2586,6 +2610,7 @@ adm2,group,phase,group_name,total_eligible
 8031,8,1c,Aged 16+ and smoker,86611
 8031,9,1c,Other essential workers,229465
 8033,0,1a,Health care personnel,10
+8033,1,1a,Long-term care facillity residents,0
 8033,2,1b,Frontline essential workers,111
 8033,3,1b,Aged 75+,213
 8033,4,1c,Aged 65-74,300
@@ -2655,6 +2680,7 @@ adm2,group,phase,group_name,total_eligible
 8045,8,1c,Aged 16+ and smoker,6393
 8045,9,1c,Other essential workers,12082
 8047,0,1a,Health care personnel,13
+8047,1,1a,Long-term care facillity residents,0
 8047,2,1b,Frontline essential workers,359
 8047,3,1b,Aged 75+,257
 8047,4,1c,Aged 65-74,822
@@ -2684,6 +2710,7 @@ adm2,group,phase,group_name,total_eligible
 8051,8,1c,Aged 16+ and smoker,2133
 8051,9,1c,Other essential workers,4330
 8053,0,1a,Health care personnel,1
+8053,1,1a,Long-term care facillity residents,0
 8053,2,1b,Frontline essential workers,55
 8053,3,1b,Aged 75+,79
 8053,4,1c,Aged 65-74,131
@@ -2703,6 +2730,7 @@ adm2,group,phase,group_name,total_eligible
 8055,8,1c,Aged 16+ and smoker,738
 8055,9,1c,Other essential workers,688
 8057,0,1a,Health care personnel,3
+8057,1,1a,Long-term care facillity residents,0
 8057,2,1b,Frontline essential workers,69
 8057,3,1b,Aged 75+,147
 8057,4,1c,Aged 65-74,210
@@ -2742,6 +2770,7 @@ adm2,group,phase,group_name,total_eligible
 8063,8,1c,Aged 16+ and smoker,820
 8063,9,1c,Other essential workers,863
 8065,0,1a,Health care personnel,140
+8065,1,1a,Long-term care facillity residents,0
 8065,2,1b,Frontline essential workers,516
 8065,3,1b,Aged 75+,222
 8065,4,1c,Aged 65-74,596
@@ -2811,6 +2840,7 @@ adm2,group,phase,group_name,total_eligible
 8077,8,1c,Aged 16+ and smoker,19438
 8077,9,1c,Other essential workers,26218
 8079,0,1a,Health care personnel,1
+8079,1,1a,Long-term care facillity residents,0
 8079,2,1b,Frontline essential workers,48
 8079,3,1b,Aged 75+,85
 8079,4,1c,Aged 65-74,136
@@ -2870,6 +2900,7 @@ adm2,group,phase,group_name,total_eligible
 8089,8,1c,Aged 16+ and smoker,2304
 8089,9,1c,Other essential workers,2035
 8091,0,1a,Health care personnel,30
+8091,1,1a,Long-term care facillity residents,0
 8091,2,1b,Frontline essential workers,361
 8091,3,1b,Aged 75+,399
 8091,4,1c,Aged 65-74,931
@@ -2879,6 +2910,7 @@ adm2,group,phase,group_name,total_eligible
 8091,8,1c,Aged 16+ and smoker,538
 8091,9,1c,Other essential workers,870
 8093,0,1a,Health care personnel,207
+8093,1,1a,Long-term care facillity residents,0
 8093,2,1b,Frontline essential workers,855
 8093,3,1b,Aged 75+,889
 8093,4,1c,Aged 65-74,2677
@@ -2958,6 +2990,7 @@ adm2,group,phase,group_name,total_eligible
 8107,8,1c,Aged 16+ and smoker,2948
 8107,9,1c,Other essential workers,7562
 8109,0,1a,Health care personnel,37
+8109,1,1a,Long-term care facillity residents,0
 8109,2,1b,Frontline essential workers,554
 8109,3,1b,Aged 75+,425
 8109,4,1c,Aged 65-74,1050
@@ -2967,6 +3000,7 @@ adm2,group,phase,group_name,total_eligible
 8109,8,1c,Aged 16+ and smoker,950
 8109,9,1c,Other essential workers,512
 8111,0,1a,Health care personnel,1
+8111,1,1a,Long-term care facillity residents,0
 8111,2,1b,Frontline essential workers,32
 8111,3,1b,Aged 75+,46
 8111,4,1c,Aged 65-74,100
@@ -2976,6 +3010,7 @@ adm2,group,phase,group_name,total_eligible
 8111,8,1c,Aged 16+ and smoker,83
 8111,9,1c,Other essential workers,100
 8113,0,1a,Health care personnel,116
+8113,1,1a,Long-term care facillity residents,0
 8113,2,1b,Frontline essential workers,647
 8113,3,1b,Aged 75+,229
 8113,4,1c,Aged 65-74,859
@@ -2995,6 +3030,7 @@ adm2,group,phase,group_name,total_eligible
 8115,8,1c,Aged 16+ and smoker,251
 8115,9,1c,Other essential workers,219
 8117,0,1a,Health care personnel,1174
+8117,1,1a,Long-term care facillity residents,0
 8117,2,1b,Frontline essential workers,2513
 8117,3,1b,Aged 75+,1003
 8117,4,1c,Aged 65-74,2911
@@ -3014,6 +3050,7 @@ adm2,group,phase,group_name,total_eligible
 8119,8,1c,Aged 16+ and smoker,2480
 8119,9,1c,Other essential workers,2576
 8121,0,1a,Health care personnel,24
+8121,1,1a,Long-term care facillity residents,0
 8121,2,1b,Frontline essential workers,387
 8121,3,1b,Aged 75+,461
 8121,4,1c,Aged 65-74,516
@@ -3293,6 +3330,7 @@ adm2,group,phase,group_name,total_eligible
 12027,8,1c,Aged 16+ and smoker,6350
 12027,9,1c,Other essential workers,3200
 12029,0,1a,Health care personnel,264
+12029,1,1a,Long-term care facillity residents,0
 12029,2,1b,Frontline essential workers,1400
 12029,3,1b,Aged 75+,1531
 12029,4,1c,Aged 65-74,2242
@@ -3362,6 +3400,7 @@ adm2,group,phase,group_name,total_eligible
 12041,8,1c,Aged 16+ and smoker,3078
 12041,9,1c,Other essential workers,1500
 12043,0,1a,Health care personnel,202
+12043,1,1a,Long-term care facillity residents,0
 12043,2,1b,Frontline essential workers,972
 12043,3,1b,Aged 75+,1657
 12043,4,1c,Aged 65-74,1981
@@ -3781,6 +3820,7 @@ adm2,group,phase,group_name,total_eligible
 12123,8,1c,Aged 16+ and smoker,4288
 12123,9,1c,Other essential workers,2462
 12125,0,1a,Health care personnel,470
+12125,1,1a,Long-term care facillity residents,0
 12125,2,1b,Frontline essential workers,803
 12125,3,1b,Aged 75+,750
 12125,4,1c,Aged 65-74,1540
@@ -3840,6 +3880,7 @@ adm2,group,phase,group_name,total_eligible
 13001,8,1c,Aged 16+ and smoker,2842
 13001,9,1c,Other essential workers,2741
 13003,0,1a,Health care personnel,72
+13003,1,1a,Long-term care facillity residents,0
 13003,2,1b,Frontline essential workers,1649
 13003,3,1b,Aged 75+,399
 13003,4,1c,Aged 65-74,718
@@ -3859,6 +3900,7 @@ adm2,group,phase,group_name,total_eligible
 13005,8,1c,Aged 16+ and smoker,1624
 13005,9,1c,Other essential workers,867
 13007,0,1a,Health care personnel,14
+13007,1,1a,Long-term care facillity residents,0
 13007,2,1b,Frontline essential workers,226
 13007,3,1b,Aged 75+,316
 13007,4,1c,Aged 65-74,427
@@ -3878,6 +3920,7 @@ adm2,group,phase,group_name,total_eligible
 13009,8,1c,Aged 16+ and smoker,7446
 13009,9,1c,Other essential workers,6504
 13011,0,1a,Health care personnel,227
+13011,1,1a,Long-term care facillity residents,0
 13011,2,1b,Frontline essential workers,1703
 13011,3,1b,Aged 75+,1135
 13011,4,1c,Aged 65-74,1944
@@ -4057,6 +4100,7 @@ adm2,group,phase,group_name,total_eligible
 13047,8,1c,Aged 16+ and smoker,7962
 13047,9,1c,Other essential workers,7216
 13049,0,1a,Health care personnel,206
+13049,1,1a,Long-term care facillity residents,0
 13049,2,1b,Frontline essential workers,941
 13049,3,1b,Aged 75+,844
 13049,4,1c,Aged 65-74,1096
@@ -4076,6 +4120,7 @@ adm2,group,phase,group_name,total_eligible
 13051,8,1c,Aged 16+ and smoker,39379
 13051,9,1c,Other essential workers,72889
 13053,0,1a,Health care personnel,48
+13053,1,1a,Long-term care facillity residents,0
 13053,2,1b,Frontline essential workers,563
 13053,3,1b,Aged 75+,146
 13053,4,1c,Aged 65-74,192
@@ -4315,6 +4360,7 @@ adm2,group,phase,group_name,total_eligible
 13099,8,1c,Aged 16+ and smoker,1666
 13099,9,1c,Other essential workers,907
 13101,0,1a,Health care personnel,1
+13101,1,1a,Long-term care facillity residents,0
 13101,2,1b,Frontline essential workers,434
 13101,3,1b,Aged 75+,307
 13101,4,1c,Aged 65-74,334
@@ -4714,6 +4760,7 @@ adm2,group,phase,group_name,total_eligible
 13179,8,1c,Aged 16+ and smoker,8587
 13179,9,1c,Other essential workers,9032
 13181,0,1a,Health care personnel,117
+13181,1,1a,Long-term care facillity residents,0
 13181,2,1b,Frontline essential workers,503
 13181,3,1b,Aged 75+,727
 13181,4,1c,Aged 65-74,1099
@@ -4763,6 +4810,7 @@ adm2,group,phase,group_name,total_eligible
 13189,8,1c,Aged 16+ and smoker,3115
 13189,9,1c,Other essential workers,2278
 13191,0,1a,Health care personnel,66
+13191,1,1a,Long-term care facillity residents,0
 13191,2,1b,Frontline essential workers,933
 13191,3,1b,Aged 75+,1333
 13191,4,1c,Aged 65-74,2306
@@ -4842,6 +4890,7 @@ adm2,group,phase,group_name,total_eligible
 13207,8,1c,Aged 16+ and smoker,3556
 13207,9,1c,Other essential workers,3572
 13209,0,1a,Health care personnel,241
+13209,1,1a,Long-term care facillity residents,0
 13209,2,1b,Frontline essential workers,564
 13209,3,1b,Aged 75+,568
 13209,4,1c,Aged 65-74,934
@@ -4941,6 +4990,7 @@ adm2,group,phase,group_name,total_eligible
 13227,8,1c,Aged 16+ and smoker,3863
 13227,9,1c,Other essential workers,3379
 13229,0,1a,Health care personnel,563
+13229,1,1a,Long-term care facillity residents,0
 13229,2,1b,Frontline essential workers,1599
 13229,3,1b,Aged 75+,1313
 13229,4,1c,Aged 65-74,1915
@@ -4950,6 +5000,7 @@ adm2,group,phase,group_name,total_eligible
 13229,8,1c,Aged 16+ and smoker,2674
 13229,9,1c,Other essential workers,1254
 13231,0,1a,Health care personnel,407
+13231,1,1a,Long-term care facillity residents,0
 13231,2,1b,Frontline essential workers,1408
 13231,3,1b,Aged 75+,1195
 13231,4,1c,Aged 65-74,1642
@@ -4989,6 +5040,7 @@ adm2,group,phase,group_name,total_eligible
 13237,8,1c,Aged 16+ and smoker,2837
 13237,9,1c,Other essential workers,1551
 13239,0,1a,Health care personnel,4
+13239,1,1a,Long-term care facillity residents,0
 13239,2,1b,Frontline essential workers,135
 13239,3,1b,Aged 75+,245
 13239,4,1c,Aged 65-74,325
@@ -5038,6 +5090,7 @@ adm2,group,phase,group_name,total_eligible
 13247,8,1c,Aged 16+ and smoker,12501
 13247,9,1c,Other essential workers,13040
 13249,0,1a,Health care personnel,29
+13249,1,1a,Long-term care facillity residents,0
 13249,2,1b,Frontline essential workers,588
 13249,3,1b,Aged 75+,330
 13249,4,1c,Aged 65-74,507
@@ -5057,6 +5110,7 @@ adm2,group,phase,group_name,total_eligible
 13251,8,1c,Aged 16+ and smoker,2240
 13251,9,1c,Other essential workers,1029
 13253,0,1a,Health care personnel,276
+13253,1,1a,Long-term care facillity residents,0
 13253,2,1b,Frontline essential workers,981
 13253,3,1b,Aged 75+,771
 13253,4,1c,Aged 65-74,1129
@@ -5106,6 +5160,7 @@ adm2,group,phase,group_name,total_eligible
 13261,8,1c,Aged 16+ and smoker,4949
 13261,9,1c,Other essential workers,3587
 13263,0,1a,Health care personnel,6
+13263,1,1a,Long-term care facillity residents,0
 13263,2,1b,Frontline essential workers,303
 13263,3,1b,Aged 75+,577
 13263,4,1c,Aged 65-74,906
@@ -5115,6 +5170,7 @@ adm2,group,phase,group_name,total_eligible
 13263,8,1c,Aged 16+ and smoker,963
 13263,9,1c,Other essential workers,480
 13265,0,1a,Health care personnel,20
+13265,1,1a,Long-term care facillity residents,0
 13265,2,1b,Frontline essential workers,101
 13265,3,1b,Aged 75+,160
 13265,4,1c,Aged 65-74,246
@@ -5204,6 +5260,7 @@ adm2,group,phase,group_name,total_eligible
 13281,8,1c,Aged 16+ and smoker,1453
 13281,9,1c,Other essential workers,1565
 13283,0,1a,Health care personnel,102
+13283,1,1a,Long-term care facillity residents,0
 13283,2,1b,Frontline essential workers,488
 13283,3,1b,Aged 75+,588
 13283,4,1c,Aged 65-74,820
@@ -5323,6 +5380,7 @@ adm2,group,phase,group_name,total_eligible
 13305,8,1c,Aged 16+ and smoker,4373
 13305,9,1c,Other essential workers,3642
 13307,0,1a,Health care personnel,4
+13307,1,1a,Long-term care facillity residents,0
 13307,2,1b,Frontline essential workers,168
 13307,3,1b,Aged 75+,208
 13307,4,1c,Aged 65-74,315
@@ -5332,6 +5390,7 @@ adm2,group,phase,group_name,total_eligible
 13307,8,1c,Aged 16+ and smoker,345
 13307,9,1c,Other essential workers,83
 13309,0,1a,Health care personnel,10
+13309,1,1a,Long-term care facillity residents,0
 13309,2,1b,Frontline essential workers,538
 13309,3,1b,Aged 75+,409
 13309,4,1c,Aged 65-74,708
@@ -5420,6 +5479,8 @@ adm2,group,phase,group_name,total_eligible
 15003,7,1c,Aged 15-49 and prgnant,10735
 15003,8,1c,Aged 16+ and smoker,88277
 15003,9,1c,Other essential workers,212908
+15005,0,1a,Health care personnel,0
+15005,1,1a,Long-term care facillity residents,0
 15005,2,1b,Frontline essential workers,1
 15005,3,1b,Aged 75+,8
 15005,4,1c,Aged 65-74,3
@@ -5427,6 +5488,7 @@ adm2,group,phase,group_name,total_eligible
 15005,6,1c,Aged under 65 w cancer,1
 15005,7,1c,Aged 15-49 and prgnant,1
 15005,8,1c,Aged 16+ and smoker,8
+15005,9,1c,Other essential workers,0
 15007,0,1a,Health care personnel,2895
 15007,1,1a,Long-term care facillity residents,358
 15007,2,1b,Frontline essential workers,3945
@@ -5458,6 +5520,7 @@ adm2,group,phase,group_name,total_eligible
 16001,8,1c,Aged 16+ and smoker,43464
 16001,9,1c,Other essential workers,102867
 16003,0,1a,Health care personnel,15
+16003,1,1a,Long-term care facillity residents,0
 16003,2,1b,Frontline essential workers,385
 16003,3,1b,Aged 75+,444
 16003,4,1c,Aged 65-74,765
@@ -5487,6 +5550,7 @@ adm2,group,phase,group_name,total_eligible
 16007,8,1c,Aged 16+ and smoker,602
 16007,9,1c,Other essential workers,463
 16009,0,1a,Health care personnel,195
+16009,1,1a,Long-term care facillity residents,0
 16009,2,1b,Frontline essential workers,1027
 16009,3,1b,Aged 75+,758
 16009,4,1c,Aged 65-74,1270
@@ -5516,6 +5580,7 @@ adm2,group,phase,group_name,total_eligible
 16013,8,1c,Aged 16+ and smoker,2351
 16013,9,1c,Other essential workers,6095
 16015,0,1a,Health care personnel,99
+16015,1,1a,Long-term care facillity residents,0
 16015,2,1b,Frontline essential workers,395
 16015,3,1b,Aged 75+,579
 16015,4,1c,Aged 65-74,1256
@@ -5565,6 +5630,7 @@ adm2,group,phase,group_name,total_eligible
 16023,8,1c,Aged 16+ and smoker,265
 16023,9,1c,Other essential workers,232
 16025,0,1a,Health care personnel,7
+16025,1,1a,Long-term care facillity residents,0
 16025,2,1b,Frontline essential workers,54
 16025,3,1b,Aged 75+,61
 16025,4,1c,Aged 65-74,136
@@ -5604,6 +5670,7 @@ adm2,group,phase,group_name,total_eligible
 16031,8,1c,Aged 16+ and smoker,2363
 16031,9,1c,Other essential workers,3985
 16033,0,1a,Health care personnel,8
+16033,1,1a,Long-term care facillity residents,0
 16033,2,1b,Frontline essential workers,127
 16033,3,1b,Aged 75+,33
 16033,4,1c,Aged 65-74,102
@@ -5893,6 +5960,7 @@ adm2,group,phase,group_name,total_eligible
 17001,8,1c,Aged 16+ and smoker,7904
 17001,9,1c,Other essential workers,10903
 17003,0,1a,Health care personnel,51
+17003,1,1a,Long-term care facillity residents,0
 17003,2,1b,Frontline essential workers,472
 17003,3,1b,Aged 75+,493
 17003,4,1c,Aged 65-74,839
@@ -5942,6 +6010,7 @@ adm2,group,phase,group_name,total_eligible
 17011,8,1c,Aged 16+ and smoker,4023
 17011,9,1c,Other essential workers,2839
 17013,0,1a,Health care personnel,43
+17013,1,1a,Long-term care facillity residents,0
 17013,2,1b,Frontline essential workers,326
 17013,3,1b,Aged 75+,528
 17013,4,1c,Aged 65-74,596
@@ -6631,6 +6700,7 @@ adm2,group,phase,group_name,total_eligible
 17149,8,1c,Aged 16+ and smoker,2113
 17149,9,1c,Other essential workers,1384
 17151,0,1a,Health care personnel,9
+17151,1,1a,Long-term care facillity residents,0
 17151,2,1b,Frontline essential workers,238
 17151,3,1b,Aged 75+,517
 17151,4,1c,Aged 65-74,633
@@ -6650,6 +6720,7 @@ adm2,group,phase,group_name,total_eligible
 17153,8,1c,Aged 16+ and smoker,839
 17153,9,1c,Other essential workers,392
 17155,0,1a,Health care personnel,30
+17155,1,1a,Long-term care facillity residents,0
 17155,2,1b,Frontline essential workers,749
 17155,3,1b,Aged 75+,533
 17155,4,1c,Aged 65-74,765
@@ -6729,6 +6800,7 @@ adm2,group,phase,group_name,total_eligible
 17169,8,1c,Aged 16+ and smoker,927
 17169,9,1c,Other essential workers,429
 17171,0,1a,Health care personnel,24
+17171,1,1a,Long-term care facillity residents,0
 17171,2,1b,Frontline essential workers,293
 17171,3,1b,Aged 75+,484
 17171,4,1c,Aged 65-74,512
@@ -7288,6 +7360,7 @@ adm2,group,phase,group_name,total_eligible
 18077,8,1c,Aged 16+ and smoker,6003
 18077,9,1c,Other essential workers,4343
 18079,0,1a,Health care personnel,944
+18079,1,1a,Long-term care facillity residents,0
 18079,2,1b,Frontline essential workers,3480
 18079,3,1b,Aged 75+,1724
 18079,4,1c,Aged 65-74,2688
@@ -7397,6 +7470,7 @@ adm2,group,phase,group_name,total_eligible
 18099,8,1c,Aged 16+ and smoker,7466
 18099,9,1c,Other essential workers,4674
 18101,0,1a,Health care personnel,124
+18101,1,1a,Long-term care facillity residents,0
 18101,2,1b,Frontline essential workers,922
 18101,3,1b,Aged 75+,828
 18101,4,1c,Aged 65-74,1123
@@ -7496,6 +7570,7 @@ adm2,group,phase,group_name,total_eligible
 18119,8,1c,Aged 16+ and smoker,3358
 18119,9,1c,Other essential workers,1426
 18121,0,1a,Health care personnel,235
+18121,1,1a,Long-term care facillity residents,0
 18121,2,1b,Frontline essential workers,1303
 18121,3,1b,Aged 75+,1287
 18121,4,1c,Aged 65-74,1952
@@ -8885,6 +8960,7 @@ adm2,group,phase,group_name,total_eligible
 20015,8,1c,Aged 16+ and smoker,8223
 20015,9,1c,Other essential workers,7164
 20017,0,1a,Health care personnel,21
+20017,1,1a,Long-term care facillity residents,0
 20017,2,1b,Frontline essential workers,326
 20017,3,1b,Aged 75+,287
 20017,4,1c,Aged 65-74,350
@@ -8894,6 +8970,7 @@ adm2,group,phase,group_name,total_eligible
 20017,8,1c,Aged 16+ and smoker,315
 20017,9,1c,Other essential workers,263
 20019,0,1a,Health care personnel,81
+20019,1,1a,Long-term care facillity residents,0
 20019,2,1b,Frontline essential workers,276
 20019,3,1b,Aged 75+,426
 20019,4,1c,Aged 65-74,440
@@ -8923,6 +9000,7 @@ adm2,group,phase,group_name,total_eligible
 20023,8,1c,Aged 16+ and smoker,345
 20023,9,1c,Other essential workers,226
 20025,0,1a,Health care personnel,22
+20025,1,1a,Long-term care facillity residents,0
 20025,2,1b,Frontline essential workers,242
 20025,3,1b,Aged 75+,282
 20025,4,1c,Aged 65-74,196
@@ -8962,6 +9040,7 @@ adm2,group,phase,group_name,total_eligible
 20031,8,1c,Aged 16+ and smoker,1004
 20031,9,1c,Other essential workers,996
 20033,0,1a,Health care personnel,26
+20033,1,1a,Long-term care facillity residents,0
 20033,2,1b,Frontline essential workers,175
 20033,3,1b,Aged 75+,181
 20033,4,1c,Aged 65-74,273
@@ -9041,6 +9120,7 @@ adm2,group,phase,group_name,total_eligible
 20047,8,1c,Aged 16+ and smoker,342
 20047,9,1c,Other essential workers,229
 20049,0,1a,Health care personnel,3
+20049,1,1a,Long-term care facillity residents,0
 20049,2,1b,Frontline essential workers,159
 20049,3,1b,Aged 75+,346
 20049,4,1c,Aged 65-74,384
@@ -9170,6 +9250,7 @@ adm2,group,phase,group_name,total_eligible
 20073,8,1c,Aged 16+ and smoker,838
 20073,9,1c,Other essential workers,585
 20075,0,1a,Health care personnel,15
+20075,1,1a,Long-term care facillity residents,0
 20075,2,1b,Frontline essential workers,158
 20075,3,1b,Aged 75+,147
 20075,4,1c,Aged 65-74,204
@@ -9199,6 +9280,7 @@ adm2,group,phase,group_name,total_eligible
 20079,8,1c,Aged 16+ and smoker,4058
 20079,9,1c,Other essential workers,2960
 20081,0,1a,Health care personnel,27
+20081,1,1a,Long-term care facillity residents,0
 20081,2,1b,Frontline essential workers,878
 20081,3,1b,Aged 75+,199
 20081,4,1c,Aged 65-74,371
@@ -9208,6 +9290,7 @@ adm2,group,phase,group_name,total_eligible
 20081,8,1c,Aged 16+ and smoker,479
 20081,9,1c,Other essential workers,420
 20083,0,1a,Health care personnel,14
+20083,1,1a,Long-term care facillity residents,0
 20083,2,1b,Frontline essential workers,236
 20083,3,1b,Aged 75+,200
 20083,4,1c,Aged 65-74,213
@@ -9237,6 +9320,7 @@ adm2,group,phase,group_name,total_eligible
 20087,8,1c,Aged 16+ and smoker,2408
 20087,9,1c,Other essential workers,1241
 20089,0,1a,Health care personnel,26
+20089,1,1a,Long-term care facillity residents,0
 20089,2,1b,Frontline essential workers,190
 20089,3,1b,Aged 75+,431
 20089,4,1c,Aged 65-74,424
@@ -9256,6 +9340,7 @@ adm2,group,phase,group_name,total_eligible
 20091,8,1c,Aged 16+ and smoker,51344
 20091,9,1c,Other essential workers,133495
 20093,0,1a,Health care personnel,36
+20093,1,1a,Long-term care facillity residents,0
 20093,2,1b,Frontline essential workers,665
 20093,3,1b,Aged 75+,253
 20093,4,1c,Aged 65-74,319
@@ -9325,6 +9410,7 @@ adm2,group,phase,group_name,total_eligible
 20105,8,1c,Aged 16+ and smoker,364
 20105,9,1c,Other essential workers,251
 20107,0,1a,Health care personnel,109
+20107,1,1a,Long-term care facillity residents,0
 20107,2,1b,Frontline essential workers,855
 20107,3,1b,Aged 75+,881
 20107,4,1c,Aged 65-74,1256
@@ -9504,6 +9590,7 @@ adm2,group,phase,group_name,total_eligible
 20141,8,1c,Aged 16+ and smoker,457
 20141,9,1c,Other essential workers,383
 20143,0,1a,Health care personnel,154
+20143,1,1a,Long-term care facillity residents,0
 20143,2,1b,Frontline essential workers,505
 20143,3,1b,Aged 75+,526
 20143,4,1c,Aged 65-74,631
@@ -9523,6 +9610,7 @@ adm2,group,phase,group_name,total_eligible
 20145,8,1c,Aged 16+ and smoker,888
 20145,9,1c,Other essential workers,1012
 20147,0,1a,Health care personnel,141
+20147,1,1a,Long-term care facillity residents,0
 20147,2,1b,Frontline essential workers,700
 20147,3,1b,Aged 75+,550
 20147,4,1c,Aged 65-74,669
@@ -9782,6 +9870,7 @@ adm2,group,phase,group_name,total_eligible
 20197,8,1c,Aged 16+ and smoker,764
 20197,9,1c,Other essential workers,574
 20199,0,1a,Health care personnel,3
+20199,1,1a,Long-term care facillity residents,0
 20199,2,1b,Frontline essential workers,163
 20199,3,1b,Aged 75+,169
 20199,4,1c,Aged 65-74,180
@@ -9801,6 +9890,7 @@ adm2,group,phase,group_name,total_eligible
 20201,8,1c,Aged 16+ and smoker,620
 20201,9,1c,Other essential workers,663
 20203,0,1a,Health care personnel,16
+20203,1,1a,Long-term care facillity residents,0
 20203,2,1b,Frontline essential workers,273
 20203,3,1b,Aged 75+,181
 20203,4,1c,Aged 65-74,219
@@ -9870,6 +9960,7 @@ adm2,group,phase,group_name,total_eligible
 21005,8,1c,Aged 16+ and smoker,3323
 21005,9,1c,Other essential workers,1414
 21007,0,1a,Health care personnel,106
+21007,1,1a,Long-term care facillity residents,0
 21007,2,1b,Frontline essential workers,886
 21007,3,1b,Aged 75+,721
 21007,4,1c,Aged 65-74,945
@@ -10149,6 +10240,7 @@ adm2,group,phase,group_name,total_eligible
 21061,8,1c,Aged 16+ and smoker,2213
 21061,9,1c,Other essential workers,748
 21063,0,1a,Health care personnel,111
+21063,1,1a,Long-term care facillity residents,0
 21063,2,1b,Frontline essential workers,290
 21063,3,1b,Aged 75+,597
 21063,4,1c,Aged 65-74,828
@@ -10218,6 +10310,7 @@ adm2,group,phase,group_name,total_eligible
 21075,8,1c,Aged 16+ and smoker,1215
 21075,9,1c,Other essential workers,689
 21077,0,1a,Health care personnel,135
+21077,1,1a,Long-term care facillity residents,0
 21077,2,1b,Frontline essential workers,568
 21077,3,1b,Aged 75+,403
 21077,4,1c,Aged 65-74,790
@@ -10377,6 +10470,7 @@ adm2,group,phase,group_name,total_eligible
 21107,8,1c,Aged 16+ and smoker,7138
 21107,9,1c,Other essential workers,5420
 21109,0,1a,Health care personnel,246
+21109,1,1a,Long-term care facillity residents,0
 21109,2,1b,Frontline essential workers,745
 21109,3,1b,Aged 75+,859
 21109,4,1c,Aged 65-74,1415
@@ -10456,6 +10550,7 @@ adm2,group,phase,group_name,total_eligible
 21123,8,1c,Aged 16+ and smoker,2368
 21123,9,1c,Other essential workers,942
 21125,0,1a,Health care personnel,3166
+21125,1,1a,Long-term care facillity residents,0
 21125,2,1b,Frontline essential workers,7485
 21125,3,1b,Aged 75+,3818
 21125,4,1c,Aged 65-74,5873
@@ -10475,6 +10570,7 @@ adm2,group,phase,group_name,total_eligible
 21127,8,1c,Aged 16+ and smoker,2800
 21127,9,1c,Other essential workers,1322
 21129,0,1a,Health care personnel,119
+21129,1,1a,Long-term care facillity residents,0
 21129,2,1b,Frontline essential workers,395
 21129,3,1b,Aged 75+,430
 21129,4,1c,Aged 65-74,766
@@ -10564,6 +10660,7 @@ adm2,group,phase,group_name,total_eligible
 21145,8,1c,Aged 16+ and smoker,10881
 21145,9,1c,Other essential workers,17493
 21147,0,1a,Health care personnel,271
+21147,1,1a,Long-term care facillity residents,0
 21147,2,1b,Frontline essential workers,1654
 21147,3,1b,Aged 75+,971
 21147,4,1c,Aged 65-74,1701
@@ -10923,6 +11020,7 @@ adm2,group,phase,group_name,total_eligible
 21217,8,1c,Aged 16+ and smoker,4435
 21217,9,1c,Other essential workers,3347
 21219,0,1a,Health care personnel,207
+21219,1,1a,Long-term care facillity residents,0
 21219,2,1b,Frontline essential workers,987
 21219,3,1b,Aged 75+,829
 21219,4,1c,Aged 65-74,1092
@@ -11022,6 +11120,7 @@ adm2,group,phase,group_name,total_eligible
 21237,8,1c,Aged 16+ and smoker,1628
 21237,9,1c,Other essential workers,387
 21239,0,1a,Health care personnel,805
+21239,1,1a,Long-term care facillity residents,0
 21239,2,1b,Frontline essential workers,2891
 21239,3,1b,Aged 75+,1732
 21239,4,1c,Aged 65-74,2938
@@ -11061,6 +11160,7 @@ adm2,group,phase,group_name,total_eligible
 22005,8,1c,Aged 16+ and smoker,16661
 22005,9,1c,Other essential workers,19997
 22007,0,1a,Health care personnel,658
+22007,1,1a,Long-term care facillity residents,0
 22007,2,1b,Frontline essential workers,1684
 22007,3,1b,Aged 75+,1519
 22007,4,1c,Aged 65-74,2383
@@ -11140,6 +11240,7 @@ adm2,group,phase,group_name,total_eligible
 22021,8,1c,Aged 16+ and smoker,1788
 22021,9,1c,Other essential workers,747
 22023,0,1a,Health care personnel,122
+22023,1,1a,Long-term care facillity residents,0
 22023,2,1b,Frontline essential workers,1009
 22023,3,1b,Aged 75+,469
 22023,4,1c,Aged 65-74,639
@@ -11459,6 +11560,7 @@ adm2,group,phase,group_name,total_eligible
 22085,8,1c,Aged 16+ and smoker,3935
 22085,9,1c,Other essential workers,1566
 22087,0,1a,Health care personnel,1354
+22087,1,1a,Long-term care facillity residents,0
 22087,2,1b,Frontline essential workers,4028
 22087,3,1b,Aged 75+,1833
 22087,4,1c,Aged 65-74,3280
@@ -11558,6 +11660,7 @@ adm2,group,phase,group_name,total_eligible
 22105,8,1c,Aged 16+ and smoker,22358
 22105,9,1c,Other essential workers,17704
 22107,0,1a,Health care personnel,25
+22107,1,1a,Long-term care facillity residents,0
 22107,2,1b,Frontline essential workers,392
 22107,3,1b,Aged 75+,452
 22107,4,1c,Aged 65-74,632
@@ -11597,6 +11700,7 @@ adm2,group,phase,group_name,total_eligible
 22113,8,1c,Aged 16+ and smoker,9128
 22113,9,1c,Other essential workers,5490
 22115,0,1a,Health care personnel,1919
+22115,1,1a,Long-term care facillity residents,0
 22115,2,1b,Frontline essential workers,2675
 22115,3,1b,Aged 75+,2268
 22115,4,1c,Aged 65-74,3555
@@ -11646,6 +11750,7 @@ adm2,group,phase,group_name,total_eligible
 22123,8,1c,Aged 16+ and smoker,1831
 22123,9,1c,Other essential workers,806
 22125,0,1a,Health care personnel,371
+22125,1,1a,Long-term care facillity residents,0
 22125,2,1b,Frontline essential workers,932
 22125,3,1b,Aged 75+,800
 22125,4,1c,Aged 65-74,1370
@@ -12095,6 +12200,7 @@ adm2,group,phase,group_name,total_eligible
 25005,8,1c,Aged 16+ and smoker,68642
 25005,9,1c,Other essential workers,80372
 25007,0,1a,Health care personnel,525
+25007,1,1a,Long-term care facillity residents,0
 25007,2,1b,Frontline essential workers,1234
 25007,3,1b,Aged 75+,1451
 25007,4,1c,Aged 65-74,2582
@@ -12154,6 +12260,7 @@ adm2,group,phase,group_name,total_eligible
 25017,8,1c,Aged 16+ and smoker,133369
 25017,9,1c,Other essential workers,255806
 25019,0,1a,Health care personnel,367
+25019,1,1a,Long-term care facillity residents,0
 25019,2,1b,Frontline essential workers,822
 25019,3,1b,Aged 75+,647
 25019,4,1c,Aged 65-74,984
@@ -12353,6 +12460,7 @@ adm2,group,phase,group_name,total_eligible
 26029,8,1c,Aged 16+ and smoker,3250
 26029,9,1c,Other essential workers,3154
 26031,0,1a,Health care personnel,308
+26031,1,1a,Long-term care facillity residents,0
 26031,2,1b,Frontline essential workers,1690
 26031,3,1b,Aged 75+,2763
 26031,4,1c,Aged 65-74,4039
@@ -12611,6 +12719,8 @@ adm2,group,phase,group_name,total_eligible
 26081,7,1c,Aged 15-49 and prgnant,6987
 26081,8,1c,Aged 16+ and smoker,75839
 26081,9,1c,Other essential workers,115325
+26083,0,1a,Health care personnel,0
+26083,1,1a,Long-term care facillity residents,0
 26083,2,1b,Frontline essential workers,122
 26083,3,1b,Aged 75+,282
 26083,4,1c,Aged 65-74,459
@@ -12850,6 +12960,7 @@ adm2,group,phase,group_name,total_eligible
 26129,8,1c,Aged 16+ and smoker,3307
 26129,9,1c,Other essential workers,2248
 26131,0,1a,Health care personnel,144
+26131,1,1a,Long-term care facillity residents,0
 26131,2,1b,Frontline essential workers,334
 26131,3,1b,Aged 75+,870
 26131,4,1c,Aged 65-74,1213
@@ -13319,6 +13430,7 @@ adm2,group,phase,group_name,total_eligible
 27057,8,1c,Aged 16+ and smoker,2388
 27057,9,1c,Other essential workers,2028
 27059,0,1a,Health care personnel,2021
+27059,1,1a,Long-term care facillity residents,0
 27059,2,1b,Frontline essential workers,3780
 27059,3,1b,Aged 75+,2611
 27059,4,1c,Aged 65-74,3511
@@ -13648,6 +13760,7 @@ adm2,group,phase,group_name,total_eligible
 27123,8,1c,Aged 16+ and smoker,60224
 27123,9,1c,Other essential workers,118403
 27125,0,1a,Health care personnel,38
+27125,1,1a,Long-term care facillity residents,0
 27125,2,1b,Frontline essential workers,383
 27125,3,1b,Aged 75+,378
 27125,4,1c,Aged 65-74,424
@@ -13937,6 +14050,7 @@ adm2,group,phase,group_name,total_eligible
 28007,8,1c,Aged 16+ and smoker,2686
 28007,9,1c,Other essential workers,1691
 28009,0,1a,Health care personnel,215
+28009,1,1a,Long-term care facillity residents,0
 28009,2,1b,Frontline essential workers,584
 28009,3,1b,Aged 75+,645
 28009,4,1c,Aged 65-74,785
@@ -14076,6 +14190,7 @@ adm2,group,phase,group_name,total_eligible
 28035,8,1c,Aged 16+ and smoker,11185
 28035,9,1c,Other essential workers,14118
 28037,0,1a,Health care personnel,190
+28037,1,1a,Long-term care facillity residents,0
 28037,2,1b,Frontline essential workers,474
 28037,3,1b,Aged 75+,653
 28037,4,1c,Aged 65-74,836
@@ -14165,6 +14280,7 @@ adm2,group,phase,group_name,total_eligible
 28053,8,1c,Aged 16+ and smoker,1627
 28053,9,1c,Other essential workers,610
 28055,0,1a,Health care personnel,6
+28055,1,1a,Long-term care facillity residents,0
 28055,2,1b,Frontline essential workers,33
 28055,3,1b,Aged 75+,105
 28055,4,1c,Aged 65-74,115
@@ -14404,6 +14520,7 @@ adm2,group,phase,group_name,total_eligible
 28101,8,1c,Aged 16+ and smoker,3278
 28101,9,1c,Other essential workers,1299
 28103,0,1a,Health care personnel,237
+28103,1,1a,Long-term care facillity residents,0
 28103,2,1b,Frontline essential workers,1461
 28103,3,1b,Aged 75+,721
 28103,4,1c,Aged 65-74,985
@@ -14533,6 +14650,7 @@ adm2,group,phase,group_name,total_eligible
 28127,8,1c,Aged 16+ and smoker,4401
 28127,9,1c,Other essential workers,2586
 28129,0,1a,Health care personnel,397
+28129,1,1a,Long-term care facillity residents,0
 28129,2,1b,Frontline essential workers,1738
 28129,3,1b,Aged 75+,1251
 28129,4,1c,Aged 65-74,1782
@@ -15042,6 +15160,7 @@ adm2,group,phase,group_name,total_eligible
 29065,8,1c,Aged 16+ and smoker,2701
 29065,9,1c,Other essential workers,1059
 29067,0,1a,Health care personnel,219
+29067,1,1a,Long-term care facillity residents,0
 29067,2,1b,Frontline essential workers,815
 29067,3,1b,Aged 75+,1368
 29067,4,1c,Aged 65-74,1813
@@ -15131,6 +15250,7 @@ adm2,group,phase,group_name,total_eligible
 29083,8,1c,Aged 16+ and smoker,3638
 29083,9,1c,Other essential workers,2328
 29085,0,1a,Health care personnel,124
+29085,1,1a,Long-term care facillity residents,0
 29085,2,1b,Frontline essential workers,649
 29085,3,1b,Aged 75+,1304
 29085,4,1c,Aged 65-74,1848
@@ -15470,6 +15590,7 @@ adm2,group,phase,group_name,total_eligible
 29151,8,1c,Aged 16+ and smoker,1824
 29151,9,1c,Other essential workers,943
 29153,0,1a,Health care personnel,146
+29153,1,1a,Long-term care facillity residents,0
 29153,2,1b,Frontline essential workers,593
 29153,3,1b,Aged 75+,1077
 29153,4,1c,Aged 65-74,1444
@@ -15909,6 +16030,7 @@ adm2,group,phase,group_name,total_eligible
 30009,8,1c,Aged 16+ and smoker,1255
 30009,9,1c,Other essential workers,1329
 30011,0,1a,Health care personnel,10
+30011,1,1a,Long-term care facillity residents,0
 30011,2,1b,Frontline essential workers,64
 30011,3,1b,Aged 75+,155
 30011,4,1c,Aged 65-74,146
@@ -15948,6 +16070,7 @@ adm2,group,phase,group_name,total_eligible
 30017,8,1c,Aged 16+ and smoker,1421
 30017,9,1c,Other essential workers,1977
 30019,0,1a,Health care personnel,25
+30019,1,1a,Long-term care facillity residents,0
 30019,2,1b,Frontline essential workers,95
 30019,3,1b,Aged 75+,250
 30019,4,1c,Aged 65-74,173
@@ -16017,6 +16140,7 @@ adm2,group,phase,group_name,total_eligible
 30031,8,1c,Aged 16+ and smoker,12403
 30031,9,1c,Other essential workers,24010
 30033,0,1a,Health care personnel,1
+30033,1,1a,Long-term care facillity residents,0
 30033,2,1b,Frontline essential workers,56
 30033,3,1b,Aged 75+,101
 30033,4,1c,Aged 65-74,138
@@ -16036,6 +16160,7 @@ adm2,group,phase,group_name,total_eligible
 30035,8,1c,Aged 16+ and smoker,2949
 30035,9,1c,Other essential workers,1315
 30037,0,1a,Health care personnel,1
+30037,1,1a,Long-term care facillity residents,0
 30037,2,1b,Frontline essential workers,49
 30037,3,1b,Aged 75+,75
 30037,4,1c,Aged 65-74,110
@@ -16045,6 +16170,7 @@ adm2,group,phase,group_name,total_eligible
 30037,8,1c,Aged 16+ and smoker,101
 30037,9,1c,Other essential workers,38
 30039,0,1a,Health care personnel,19
+30039,1,1a,Long-term care facillity residents,0
 30039,2,1b,Frontline essential workers,298
 30039,3,1b,Aged 75+,387
 30039,4,1c,Aged 65-74,578
@@ -16074,6 +16200,7 @@ adm2,group,phase,group_name,total_eligible
 30043,8,1c,Aged 16+ and smoker,1470
 30043,9,1c,Other essential workers,1095
 30045,0,1a,Health care personnel,8
+30045,1,1a,Long-term care facillity residents,0
 30045,2,1b,Frontline essential workers,232
 30045,3,1b,Aged 75+,158
 30045,4,1c,Aged 65-74,285
@@ -16123,6 +16250,7 @@ adm2,group,phase,group_name,total_eligible
 30053,8,1c,Aged 16+ and smoker,2608
 30053,9,1c,Other essential workers,2064
 30055,0,1a,Health care personnel,21
+30055,1,1a,Long-term care facillity residents,0
 30055,2,1b,Frontline essential workers,75
 30055,3,1b,Aged 75+,230
 30055,4,1c,Aged 65-74,219
@@ -16142,6 +16270,7 @@ adm2,group,phase,group_name,total_eligible
 30057,8,1c,Aged 16+ and smoker,1008
 30057,9,1c,Other essential workers,1047
 30059,0,1a,Health care personnel,30
+30059,1,1a,Long-term care facillity residents,0
 30059,2,1b,Frontline essential workers,115
 30059,3,1b,Aged 75+,191
 30059,4,1c,Aged 65-74,262
@@ -16190,6 +16319,8 @@ adm2,group,phase,group_name,total_eligible
 30067,7,1c,Aged 15-49 and prgnant,158
 30067,8,1c,Aged 16+ and smoker,1938
 30067,9,1c,Other essential workers,2513
+30069,0,1a,Health care personnel,0
+30069,1,1a,Long-term care facillity residents,0
 30069,2,1b,Frontline essential workers,19
 30069,3,1b,Aged 75+,70
 30069,4,1c,Aged 65-74,31
@@ -16239,6 +16370,7 @@ adm2,group,phase,group_name,total_eligible
 30077,8,1c,Aged 16+ and smoker,1068
 30077,9,1c,Other essential workers,645
 30079,0,1a,Health care personnel,8
+30079,1,1a,Long-term care facillity residents,0
 30079,2,1b,Frontline essential workers,97
 30079,3,1b,Aged 75+,115
 30079,4,1c,Aged 65-74,235
@@ -16357,6 +16489,8 @@ adm2,group,phase,group_name,total_eligible
 30101,7,1c,Aged 15-49 and prgnant,39
 30101,8,1c,Aged 16+ and smoker,735
 30101,9,1c,Other essential workers,813
+30103,0,1a,Health care personnel,0
+30103,1,1a,Long-term care facillity residents,0
 30103,2,1b,Frontline essential workers,36
 30103,3,1b,Aged 75+,61
 30103,4,1c,Aged 65-74,131
@@ -16425,6 +16559,8 @@ adm2,group,phase,group_name,total_eligible
 31003,7,1c,Aged 15-49 and prgnant,56
 31003,8,1c,Aged 16+ and smoker,703
 31003,9,1c,Other essential workers,429
+31005,0,1a,Health care personnel,0
+31005,1,1a,Long-term care facillity residents,0
 31005,2,1b,Frontline essential workers,24
 31005,3,1b,Aged 75+,57
 31005,4,1c,Aged 65-74,50
@@ -16433,6 +16569,8 @@ adm2,group,phase,group_name,total_eligible
 31005,7,1c,Aged 15-49 and prgnant,3
 31005,8,1c,Aged 16+ and smoker,47
 31005,9,1c,Other essential workers,19
+31007,0,1a,Health care personnel,0
+31007,1,1a,Long-term care facillity residents,0
 31007,2,1b,Frontline essential workers,28
 31007,3,1b,Aged 75+,48
 31007,4,1c,Aged 65-74,107
@@ -16441,6 +16579,8 @@ adm2,group,phase,group_name,total_eligible
 31007,7,1c,Aged 15-49 and prgnant,6
 31007,8,1c,Aged 16+ and smoker,87
 31007,9,1c,Other essential workers,35
+31009,0,1a,Health care personnel,0
+31009,1,1a,Long-term care facillity residents,0
 31009,2,1b,Frontline essential workers,56
 31009,3,1b,Aged 75+,60
 31009,4,1c,Aged 65-74,72
@@ -16640,6 +16780,7 @@ adm2,group,phase,group_name,total_eligible
 31047,8,1c,Aged 16+ and smoker,2524
 31047,9,1c,Other essential workers,2544
 31049,0,1a,Health care personnel,10
+31049,1,1a,Long-term care facillity residents,0
 31049,2,1b,Frontline essential workers,147
 31049,3,1b,Aged 75+,210
 31049,4,1c,Aged 65-74,220
@@ -16768,6 +16909,8 @@ adm2,group,phase,group_name,total_eligible
 31073,7,1c,Aged 15-49 and prgnant,17
 31073,8,1c,Aged 16+ and smoker,205
 31073,9,1c,Other essential workers,162
+31075,0,1a,Health care personnel,0
+31075,1,1a,Long-term care facillity residents,0
 31075,2,1b,Frontline essential workers,151
 31075,3,1b,Aged 75+,69
 31075,4,1c,Aged 65-74,83
@@ -16816,6 +16959,8 @@ adm2,group,phase,group_name,total_eligible
 31083,7,1c,Aged 15-49 and prgnant,30
 31083,8,1c,Aged 16+ and smoker,402
 31083,9,1c,Other essential workers,261
+31085,0,1a,Health care personnel,0
+31085,1,1a,Long-term care facillity residents,0
 31085,2,1b,Frontline essential workers,117
 31085,3,1b,Aged 75+,77
 31085,4,1c,Aged 65-74,89
@@ -16904,6 +17049,8 @@ adm2,group,phase,group_name,total_eligible
 31101,7,1c,Aged 15-49 and prgnant,67
 31101,8,1c,Aged 16+ and smoker,990
 31101,9,1c,Other essential workers,1303
+31103,0,1a,Health care personnel,0
+31103,1,1a,Long-term care facillity residents,0
 31103,2,1b,Frontline essential workers,74
 31103,3,1b,Aged 75+,96
 31103,4,1c,Aged 65-74,87
@@ -16952,6 +17099,8 @@ adm2,group,phase,group_name,total_eligible
 31111,7,1c,Aged 15-49 and prgnant,376
 31111,8,1c,Aged 16+ and smoker,4431
 31111,9,1c,Other essential workers,5316
+31113,0,1a,Health care personnel,0
+31113,1,1a,Long-term care facillity residents,0
 31113,2,1b,Frontline essential workers,90
 31113,3,1b,Aged 75+,79
 31113,4,1c,Aged 65-74,107
@@ -16960,6 +17109,8 @@ adm2,group,phase,group_name,total_eligible
 31113,7,1c,Aged 15-49 and prgnant,9
 31113,8,1c,Aged 16+ and smoker,107
 31113,9,1c,Other essential workers,25
+31115,0,1a,Health care personnel,0
+31115,1,1a,Long-term care facillity residents,0
 31115,2,1b,Frontline essential workers,38
 31115,3,1b,Aged 75+,52
 31115,4,1c,Aged 65-74,96
@@ -16968,6 +17119,8 @@ adm2,group,phase,group_name,total_eligible
 31115,7,1c,Aged 15-49 and prgnant,4
 31115,8,1c,Aged 16+ and smoker,68
 31115,9,1c,Other essential workers,42
+31117,0,1a,Health care personnel,0
+31117,1,1a,Long-term care facillity residents,0
 31117,2,1b,Frontline essential workers,23
 31117,3,1b,Aged 75+,56
 31117,4,1c,Aged 65-74,62
@@ -17206,6 +17359,8 @@ adm2,group,phase,group_name,total_eligible
 31163,7,1c,Aged 15-49 and prgnant,24
 31163,8,1c,Aged 16+ and smoker,347
 31163,9,1c,Other essential workers,247
+31165,0,1a,Health care personnel,0
+31165,1,1a,Long-term care facillity residents,0
 31165,2,1b,Frontline essential workers,93
 31165,3,1b,Aged 75+,159
 31165,4,1c,Aged 65-74,111
@@ -17234,6 +17389,8 @@ adm2,group,phase,group_name,total_eligible
 31169,7,1c,Aged 15-49 and prgnant,41
 31169,8,1c,Aged 16+ and smoker,524
 31169,9,1c,Other essential workers,572
+31171,0,1a,Health care personnel,0
+31171,1,1a,Long-term care facillity residents,0
 31171,2,1b,Frontline essential workers,37
 31171,3,1b,Aged 75+,52
 31171,4,1c,Aged 65-74,85
@@ -17292,6 +17449,8 @@ adm2,group,phase,group_name,total_eligible
 31181,7,1c,Aged 15-49 and prgnant,30
 31181,8,1c,Aged 16+ and smoker,417
 31181,9,1c,Other essential workers,261
+31183,0,1a,Health care personnel,0
+31183,1,1a,Long-term care facillity residents,0
 31183,2,1b,Frontline essential workers,184
 31183,3,1b,Aged 75+,85
 31183,4,1c,Aged 65-74,102
@@ -17350,6 +17509,8 @@ adm2,group,phase,group_name,total_eligible
 32007,7,1c,Aged 15-49 and prgnant,540
 32007,8,1c,Aged 16+ and smoker,6675
 32007,9,1c,Other essential workers,9407
+32009,0,1a,Health care personnel,0
+32009,1,1a,Long-term care facillity residents,0
 32009,2,1b,Frontline essential workers,66
 32009,3,1b,Aged 75+,87
 32009,4,1c,Aged 65-74,189
@@ -17358,6 +17519,8 @@ adm2,group,phase,group_name,total_eligible
 32009,7,1c,Aged 15-49 and prgnant,7
 32009,8,1c,Aged 16+ and smoker,155
 32009,9,1c,Other essential workers,46
+32011,0,1a,Health care personnel,0
+32011,1,1a,Long-term care facillity residents,0
 32011,2,1b,Frontline essential workers,175
 32011,3,1b,Aged 75+,131
 32011,4,1c,Aged 65-74,204
@@ -17377,6 +17540,7 @@ adm2,group,phase,group_name,total_eligible
 32013,8,1c,Aged 16+ and smoker,2155
 32013,9,1c,Other essential workers,3884
 32015,0,1a,Health care personnel,55
+32015,1,1a,Long-term care facillity residents,0
 32015,2,1b,Frontline essential workers,456
 32015,3,1b,Aged 75+,362
 32015,4,1c,Aged 65-74,436
@@ -17386,6 +17550,7 @@ adm2,group,phase,group_name,total_eligible
 32015,8,1c,Aged 16+ and smoker,723
 32015,9,1c,Other essential workers,511
 32017,0,1a,Health care personnel,86
+32017,1,1a,Long-term care facillity residents,0
 32017,2,1b,Frontline essential workers,352
 32017,3,1b,Aged 75+,432
 32017,4,1c,Aged 65-74,702
@@ -17395,6 +17560,7 @@ adm2,group,phase,group_name,total_eligible
 32017,8,1c,Aged 16+ and smoker,702
 32017,9,1c,Other essential workers,379
 32019,0,1a,Health care personnel,1198
+32019,1,1a,Long-term care facillity residents,0
 32019,2,1b,Frontline essential workers,4934
 32019,3,1b,Aged 75+,4017
 32019,4,1c,Aged 65-74,7355
@@ -17404,6 +17570,7 @@ adm2,group,phase,group_name,total_eligible
 32019,8,1c,Aged 16+ and smoker,9135
 32019,9,1c,Other essential workers,4501
 32021,0,1a,Health care personnel,28
+32021,1,1a,Long-term care facillity residents,0
 32021,2,1b,Frontline essential workers,230
 32021,3,1b,Aged 75+,627
 32021,4,1c,Aged 65-74,732
@@ -17433,6 +17600,7 @@ adm2,group,phase,group_name,total_eligible
 32027,8,1c,Aged 16+ and smoker,1011
 32027,9,1c,Other essential workers,1154
 32029,0,1a,Health care personnel,7
+32029,1,1a,Long-term care facillity residents,0
 32029,2,1b,Frontline essential workers,412
 32029,3,1b,Aged 75+,383
 32029,4,1c,Aged 65-74,759
@@ -17792,6 +17960,7 @@ adm2,group,phase,group_name,total_eligible
 35001,8,1c,Aged 16+ and smoker,81605
 35001,9,1c,Other essential workers,134651
 35003,0,1a,Health care personnel,8
+35003,1,1a,Long-term care facillity residents,0
 35003,2,1b,Frontline essential workers,197
 35003,3,1b,Aged 75+,558
 35003,4,1c,Aged 65-74,748
@@ -17841,6 +18010,7 @@ adm2,group,phase,group_name,total_eligible
 35009,8,1c,Aged 16+ and smoker,7130
 35009,9,1c,Other essential workers,6805
 35011,0,1a,Health care personnel,6
+35011,1,1a,Long-term care facillity residents,0
 35011,2,1b,Frontline essential workers,158
 35011,3,1b,Aged 75+,153
 35011,4,1c,Aged 65-74,248
@@ -17880,6 +18050,7 @@ adm2,group,phase,group_name,total_eligible
 35017,8,1c,Aged 16+ and smoker,3168
 35017,9,1c,Other essential workers,3238
 35019,0,1a,Health care personnel,115
+35019,1,1a,Long-term care facillity residents,0
 35019,2,1b,Frontline essential workers,505
 35019,3,1b,Aged 75+,455
 35019,4,1c,Aged 65-74,494
@@ -17889,6 +18060,7 @@ adm2,group,phase,group_name,total_eligible
 35019,8,1c,Aged 16+ and smoker,542
 35019,9,1c,Other essential workers,585
 35021,0,1a,Health care personnel,1
+35021,1,1a,Long-term care facillity residents,0
 35021,2,1b,Frontline essential workers,56
 35021,3,1b,Aged 75+,74
 35021,4,1c,Aged 65-74,98
@@ -17898,6 +18070,7 @@ adm2,group,phase,group_name,total_eligible
 35021,8,1c,Aged 16+ and smoker,53
 35021,9,1c,Other essential workers,24
 35023,0,1a,Health care personnel,33
+35023,1,1a,Long-term care facillity residents,0
 35023,2,1b,Frontline essential workers,412
 35023,3,1b,Aged 75+,365
 35023,4,1c,Aged 65-74,545
@@ -17917,6 +18090,7 @@ adm2,group,phase,group_name,total_eligible
 35025,8,1c,Aged 16+ and smoker,8659
 35025,9,1c,Other essential workers,19347
 35027,0,1a,Health care personnel,575
+35027,1,1a,Long-term care facillity residents,0
 35027,2,1b,Frontline essential workers,1172
 35027,3,1b,Aged 75+,2189
 35027,4,1c,Aged 65-74,3286
@@ -17956,6 +18130,7 @@ adm2,group,phase,group_name,total_eligible
 35031,8,1c,Aged 16+ and smoker,11639
 35031,9,1c,Other essential workers,8732
 35033,0,1a,Health care personnel,54
+35033,1,1a,Long-term care facillity residents,0
 35033,2,1b,Frontline essential workers,217
 35033,3,1b,Aged 75+,528
 35033,4,1c,Aged 65-74,851
@@ -17975,6 +18150,7 @@ adm2,group,phase,group_name,total_eligible
 35035,8,1c,Aged 16+ and smoker,9866
 35035,9,1c,Other essential workers,7680
 35037,0,1a,Health care personnel,258
+35037,1,1a,Long-term care facillity residents,0
 35037,2,1b,Frontline essential workers,755
 35037,3,1b,Aged 75+,838
 35037,4,1c,Aged 65-74,1183
@@ -17984,6 +18160,7 @@ adm2,group,phase,group_name,total_eligible
 35037,8,1c,Aged 16+ and smoker,1112
 35037,9,1c,Other essential workers,972
 35039,0,1a,Health care personnel,1370
+35039,1,1a,Long-term care facillity residents,0
 35039,2,1b,Frontline essential workers,1781
 35039,3,1b,Aged 75+,3024
 35039,4,1c,Aged 65-74,4282
@@ -18073,6 +18250,7 @@ adm2,group,phase,group_name,total_eligible
 35055,8,1c,Aged 16+ and smoker,4392
 35055,9,1c,Other essential workers,4897
 35057,0,1a,Health care personnel,118
+35057,1,1a,Long-term care facillity residents,0
 35057,2,1b,Frontline essential workers,873
 35057,3,1b,Aged 75+,1127
 35057,4,1c,Aged 65-74,1993
@@ -18302,6 +18480,7 @@ adm2,group,phase,group_name,total_eligible
 36039,8,1c,Aged 16+ and smoker,6065
 36039,9,1c,Other essential workers,6463
 36041,0,1a,Health care personnel,150
+36041,1,1a,Long-term care facillity residents,0
 36041,2,1b,Frontline essential workers,261
 36041,3,1b,Aged 75+,525
 36041,4,1c,Aged 65-74,841
@@ -19751,6 +19930,7 @@ adm2,group,phase,group_name,total_eligible
 38005,8,1c,Aged 16+ and smoker,1374
 38005,9,1c,Other essential workers,728
 38007,0,1a,Health care personnel,1
+38007,1,1a,Long-term care facillity residents,0
 38007,2,1b,Frontline essential workers,54
 38007,3,1b,Aged 75+,101
 38007,4,1c,Aged 65-74,96
@@ -19780,6 +19960,7 @@ adm2,group,phase,group_name,total_eligible
 38011,8,1c,Aged 16+ and smoker,345
 38011,9,1c,Other essential workers,327
 38013,0,1a,Health care personnel,10
+38013,1,1a,Long-term care facillity residents,0
 38013,2,1b,Frontline essential workers,111
 38013,3,1b,Aged 75+,164
 38013,4,1c,Aged 65-74,205
@@ -19849,6 +20030,7 @@ adm2,group,phase,group_name,total_eligible
 38025,8,1c,Aged 16+ and smoker,586
 38025,9,1c,Other essential workers,1320
 38027,0,1a,Health care personnel,25
+38027,1,1a,Long-term care facillity residents,0
 38027,2,1b,Frontline essential workers,156
 38027,3,1b,Aged 75+,305
 38027,4,1c,Aged 65-74,268
@@ -19868,6 +20050,7 @@ adm2,group,phase,group_name,total_eligible
 38029,8,1c,Aged 16+ and smoker,409
 38029,9,1c,Other essential workers,232
 38031,0,1a,Health care personnel,76
+38031,1,1a,Long-term care facillity residents,0
 38031,2,1b,Frontline essential workers,227
 38031,3,1b,Aged 75+,394
 38031,4,1c,Aged 65-74,340
@@ -19877,6 +20060,7 @@ adm2,group,phase,group_name,total_eligible
 38031,8,1c,Aged 16+ and smoker,416
 38031,9,1c,Other essential workers,365
 38033,0,1a,Health care personnel,28
+38033,1,1a,Long-term care facillity residents,0
 38033,2,1b,Frontline essential workers,156
 38033,3,1b,Aged 75+,158
 38033,4,1c,Aged 65-74,224
@@ -19896,6 +20080,7 @@ adm2,group,phase,group_name,total_eligible
 38035,8,1c,Aged 16+ and smoker,9087
 38035,9,1c,Other essential workers,14389
 38037,0,1a,Health care personnel,56
+38037,1,1a,Long-term care facillity residents,0
 38037,2,1b,Frontline essential workers,170
 38037,3,1b,Aged 75+,350
 38037,4,1c,Aged 65-74,334
@@ -19915,6 +20100,7 @@ adm2,group,phase,group_name,total_eligible
 38039,8,1c,Aged 16+ and smoker,293
 38039,9,1c,Other essential workers,161
 38041,0,1a,Health care personnel,34
+38041,1,1a,Long-term care facillity residents,0
 38041,2,1b,Frontline essential workers,163
 38041,3,1b,Aged 75+,311
 38041,4,1c,Aged 65-74,308
@@ -19924,6 +20110,7 @@ adm2,group,phase,group_name,total_eligible
 38041,8,1c,Aged 16+ and smoker,330
 38041,9,1c,Other essential workers,179
 38043,0,1a,Health care personnel,22
+38043,1,1a,Long-term care facillity residents,0
 38043,2,1b,Frontline essential workers,136
 38043,3,1b,Aged 75+,270
 38043,4,1c,Aged 65-74,255
@@ -20033,6 +20220,7 @@ adm2,group,phase,group_name,total_eligible
 38063,8,1c,Aged 16+ and smoker,361
 38063,9,1c,Other essential workers,243
 38065,0,1a,Health care personnel,8
+38065,1,1a,Long-term care facillity residents,0
 38065,2,1b,Frontline essential workers,108
 38065,3,1b,Aged 75+,155
 38065,4,1c,Aged 65-74,277
@@ -20122,6 +20310,7 @@ adm2,group,phase,group_name,total_eligible
 38081,8,1c,Aged 16+ and smoker,476
 38081,9,1c,Other essential workers,333
 38083,0,1a,Health care personnel,17
+38083,1,1a,Long-term care facillity residents,0
 38083,2,1b,Frontline essential workers,64
 38083,3,1b,Aged 75+,224
 38083,4,1c,Aged 65-74,194
@@ -20131,6 +20320,7 @@ adm2,group,phase,group_name,total_eligible
 38083,8,1c,Aged 16+ and smoker,192
 38083,9,1c,Other essential workers,107
 38085,0,1a,Health care personnel,117
+38085,1,1a,Long-term care facillity residents,0
 38085,2,1b,Frontline essential workers,190
 38085,3,1b,Aged 75+,136
 38085,4,1c,Aged 65-74,207
@@ -20139,6 +20329,8 @@ adm2,group,phase,group_name,total_eligible
 38085,7,1c,Aged 15-49 and prgnant,55
 38085,8,1c,Aged 16+ and smoker,1114
 38085,9,1c,Other essential workers,303
+38087,0,1a,Health care personnel,0
+38087,1,1a,Long-term care facillity residents,0
 38087,2,1b,Frontline essential workers,27
 38087,3,1b,Aged 75+,99
 38087,4,1c,Aged 65-74,98
@@ -20157,6 +20349,8 @@ adm2,group,phase,group_name,total_eligible
 38089,7,1c,Aged 15-49 and prgnant,383
 38089,8,1c,Aged 16+ and smoker,4013
 38089,9,1c,Other essential workers,9601
+38091,0,1a,Health care personnel,0
+38091,1,1a,Long-term care facillity residents,0
 38091,2,1b,Frontline essential workers,192
 38091,3,1b,Aged 75+,167
 38091,4,1c,Aged 65-74,239
@@ -21126,6 +21320,7 @@ adm2,group,phase,group_name,total_eligible
 40001,8,1c,Aged 16+ and smoker,4624
 40001,9,1c,Other essential workers,1243
 40003,0,1a,Health care personnel,19
+40003,1,1a,Long-term care facillity residents,0
 40003,2,1b,Frontline essential workers,424
 40003,3,1b,Aged 75+,541
 40003,4,1c,Aged 65-74,580
@@ -21235,6 +21430,7 @@ adm2,group,phase,group_name,total_eligible
 40023,8,1c,Aged 16+ and smoker,2631
 40023,9,1c,Other essential workers,1497
 40025,0,1a,Health care personnel,18
+40025,1,1a,Long-term care facillity residents,0
 40025,2,1b,Frontline essential workers,135
 40025,3,1b,Aged 75+,241
 40025,4,1c,Aged 65-74,288
@@ -21274,6 +21470,7 @@ adm2,group,phase,group_name,total_eligible
 40031,8,1c,Aged 16+ and smoker,18987
 40031,9,1c,Other essential workers,18869
 40033,0,1a,Health care personnel,69
+40033,1,1a,Long-term care facillity residents,0
 40033,2,1b,Frontline essential workers,415
 40033,3,1b,Aged 75+,487
 40033,4,1c,Aged 65-74,651
@@ -21753,6 +21950,7 @@ adm2,group,phase,group_name,total_eligible
 40127,8,1c,Aged 16+ and smoker,1853
 40127,9,1c,Other essential workers,844
 40129,0,1a,Health care personnel,40
+40129,1,1a,Long-term care facillity residents,0
 40129,2,1b,Frontline essential workers,254
 40129,3,1b,Aged 75+,322
 40129,4,1c,Aged 65-74,418
@@ -22122,6 +22320,7 @@ adm2,group,phase,group_name,total_eligible
 41047,8,1c,Aged 16+ and smoker,39586
 41047,9,1c,Other essential workers,66186
 41049,0,1a,Health care personnel,195
+41049,1,1a,Long-term care facillity residents,0
 41049,2,1b,Frontline essential workers,2559
 41049,3,1b,Aged 75+,642
 41049,4,1c,Aged 65-74,1122
@@ -22150,6 +22349,8 @@ adm2,group,phase,group_name,total_eligible
 41053,7,1c,Aged 15-49 and prgnant,835
 41053,8,1c,Aged 16+ and smoker,9280
 41053,9,1c,Other essential workers,6955
+41055,0,1a,Health care personnel,0
+41055,1,1a,Long-term care facillity residents,0
 41055,2,1b,Frontline essential workers,127
 41055,3,1b,Aged 75+,209
 41055,4,1c,Aged 65-74,219
@@ -22499,6 +22700,7 @@ adm2,group,phase,group_name,total_eligible
 42051,8,1c,Aged 16+ and smoker,22696
 42051,9,1c,Other essential workers,14922
 42053,0,1a,Health care personnel,84
+42053,1,1a,Long-term care facillity residents,0
 42053,2,1b,Frontline essential workers,478
 42053,3,1b,Aged 75+,660
 42053,4,1c,Aged 65-74,943
@@ -22518,6 +22720,7 @@ adm2,group,phase,group_name,total_eligible
 42055,8,1c,Aged 16+ and smoker,22108
 42055,9,1c,Other essential workers,23102
 42057,0,1a,Health care personnel,471
+42057,1,1a,Long-term care facillity residents,0
 42057,2,1b,Frontline essential workers,3236
 42057,3,1b,Aged 75+,1305
 42057,4,1c,Aged 65-74,1735
@@ -22747,6 +22950,7 @@ adm2,group,phase,group_name,total_eligible
 42101,8,1c,Aged 16+ and smoker,263829
 42101,9,1c,Other essential workers,267662
 42103,0,1a,Health care personnel,868
+42103,1,1a,Long-term care facillity residents,0
 42103,2,1b,Frontline essential workers,2885
 42103,3,1b,Aged 75+,4794
 42103,4,1c,Aged 65-74,7358
@@ -23436,6 +23640,7 @@ adm2,group,phase,group_name,total_eligible
 46005,8,1c,Aged 16+ and smoker,2211
 46005,9,1c,Other essential workers,2452
 46007,0,1a,Health care personnel,58
+46007,1,1a,Long-term care facillity residents,0
 46007,2,1b,Frontline essential workers,194
 46007,3,1b,Aged 75+,209
 46007,4,1c,Aged 65-74,189
@@ -23485,6 +23690,7 @@ adm2,group,phase,group_name,total_eligible
 46015,8,1c,Aged 16+ and smoker,652
 46015,9,1c,Other essential workers,675
 46017,0,1a,Health care personnel,89
+46017,1,1a,Long-term care facillity residents,0
 46017,2,1b,Frontline essential workers,89
 46017,3,1b,Aged 75+,41
 46017,4,1c,Aged 65-74,105
@@ -23554,6 +23760,7 @@ adm2,group,phase,group_name,total_eligible
 46029,8,1c,Aged 16+ and smoker,3527
 46029,9,1c,Other essential workers,5424
 46031,0,1a,Health care personnel,79
+46031,1,1a,Long-term care facillity residents,0
 46031,2,1b,Frontline essential workers,394
 46031,3,1b,Aged 75+,174
 46031,4,1c,Aged 65-74,279
@@ -23603,6 +23810,7 @@ adm2,group,phase,group_name,total_eligible
 46039,8,1c,Aged 16+ and smoker,442
 46039,9,1c,Other essential workers,418
 46041,0,1a,Health care personnel,338
+46041,1,1a,Long-term care facillity residents,0
 46041,2,1b,Frontline essential workers,698
 46041,3,1b,Aged 75+,216
 46041,4,1c,Aged 65-74,344
@@ -23702,6 +23910,7 @@ adm2,group,phase,group_name,total_eligible
 46059,8,1c,Aged 16+ and smoker,340
 46059,9,1c,Other essential workers,322
 46061,0,1a,Health care personnel,15
+46061,1,1a,Long-term care facillity residents,0
 46061,2,1b,Frontline essential workers,280
 46061,3,1b,Aged 75+,134
 46061,4,1c,Aged 65-74,373
@@ -23711,6 +23920,7 @@ adm2,group,phase,group_name,total_eligible
 46061,8,1c,Aged 16+ and smoker,344
 46061,9,1c,Other essential workers,178
 46063,0,1a,Health care personnel,14
+46063,1,1a,Long-term care facillity residents,0
 46063,2,1b,Frontline essential workers,84
 46063,3,1b,Aged 75+,65
 46063,4,1c,Aged 65-74,164
@@ -23750,6 +23960,7 @@ adm2,group,phase,group_name,total_eligible
 46069,8,1c,Aged 16+ and smoker,155
 46069,9,1c,Other essential workers,56
 46071,0,1a,Health care personnel,57
+46071,1,1a,Long-term care facillity residents,0
 46071,2,1b,Frontline essential workers,246
 46071,3,1b,Aged 75+,190
 46071,4,1c,Aged 65-74,280
@@ -23769,6 +23980,7 @@ adm2,group,phase,group_name,total_eligible
 46073,8,1c,Aged 16+ and smoker,196
 46073,9,1c,Other essential workers,237
 46075,0,1a,Health care personnel,1
+46075,1,1a,Long-term care facillity residents,0
 46075,2,1b,Frontline essential workers,37
 46075,3,1b,Aged 75+,110
 46075,4,1c,Aged 65-74,73
@@ -23818,6 +24030,7 @@ adm2,group,phase,group_name,total_eligible
 46083,8,1c,Aged 16+ and smoker,5481
 46083,9,1c,Other essential workers,9530
 46085,0,1a,Health care personnel,69
+46085,1,1a,Long-term care facillity residents,0
 46085,2,1b,Frontline essential workers,276
 46085,3,1b,Aged 75+,270
 46085,4,1c,Aged 65-74,329
@@ -23907,6 +24120,7 @@ adm2,group,phase,group_name,total_eligible
 46101,8,1c,Aged 16+ and smoker,844
 46101,9,1c,Other essential workers,575
 46102,0,1a,Health care personnel,469
+46102,1,1a,Long-term care facillity residents,0
 46102,2,1b,Frontline essential workers,1487
 46102,3,1b,Aged 75+,359
 46102,4,1c,Aged 65-74,616
@@ -23976,6 +24190,7 @@ adm2,group,phase,group_name,total_eligible
 46115,8,1c,Aged 16+ and smoker,721
 46115,9,1c,Other essential workers,619
 46117,0,1a,Health care personnel,8
+46117,1,1a,Long-term care facillity residents,0
 46117,2,1b,Frontline essential workers,227
 46117,3,1b,Aged 75+,248
 46117,4,1c,Aged 65-74,404
@@ -23985,6 +24200,7 @@ adm2,group,phase,group_name,total_eligible
 46117,8,1c,Aged 16+ and smoker,309
 46117,9,1c,Other essential workers,522
 46119,0,1a,Health care personnel,4
+46119,1,1a,Long-term care facillity residents,0
 46119,2,1b,Frontline essential workers,252
 46119,3,1b,Aged 75+,143
 46119,4,1c,Aged 65-74,177
@@ -23994,6 +24210,7 @@ adm2,group,phase,group_name,total_eligible
 46119,8,1c,Aged 16+ and smoker,136
 46119,9,1c,Other essential workers,182
 46121,0,1a,Health care personnel,236
+46121,1,1a,Long-term care facillity residents,0
 46121,2,1b,Frontline essential workers,660
 46121,3,1b,Aged 75+,264
 46121,4,1c,Aged 65-74,493
@@ -24343,6 +24560,7 @@ adm2,group,phase,group_name,total_eligible
 47055,8,1c,Aged 16+ and smoker,5197
 47055,9,1c,Other essential workers,2976
 47057,0,1a,Health care personnel,370
+47057,1,1a,Long-term care facillity residents,0
 47057,2,1b,Frontline essential workers,2303
 47057,3,1b,Aged 75+,1810
 47057,4,1c,Aged 65-74,2845
@@ -24752,6 +24970,7 @@ adm2,group,phase,group_name,total_eligible
 47137,8,1c,Aged 16+ and smoker,888
 47137,9,1c,Other essential workers,308
 47139,0,1a,Health care personnel,237
+47139,1,1a,Long-term care facillity residents,0
 47139,2,1b,Frontline essential workers,1028
 47139,3,1b,Aged 75+,1385
 47139,4,1c,Aged 65-74,2064
@@ -25051,6 +25270,7 @@ adm2,group,phase,group_name,total_eligible
 48007,8,1c,Aged 16+ and smoker,2876
 48007,9,1c,Other essential workers,3540
 48009,0,1a,Health care personnel,137
+48009,1,1a,Long-term care facillity residents,0
 48009,2,1b,Frontline essential workers,537
 48009,3,1b,Aged 75+,791
 48009,4,1c,Aged 65-74,911
@@ -25169,6 +25389,8 @@ adm2,group,phase,group_name,total_eligible
 48031,7,1c,Aged 15-49 and prgnant,93
 48031,8,1c,Aged 16+ and smoker,1255
 48031,9,1c,Other essential workers,1557
+48033,0,1a,Health care personnel,0
+48033,1,1a,Long-term care facillity residents,0
 48033,2,1b,Frontline essential workers,40
 48033,3,1b,Aged 75+,51
 48033,4,1c,Aged 65-74,116
@@ -25218,6 +25440,7 @@ adm2,group,phase,group_name,total_eligible
 48041,8,1c,Aged 16+ and smoker,25462
 48041,9,1c,Other essential workers,44337
 48043,0,1a,Health care personnel,364
+48043,1,1a,Long-term care facillity residents,0
 48043,2,1b,Frontline essential workers,752
 48043,3,1b,Aged 75+,811
 48043,4,1c,Aged 65-74,1261
@@ -25227,6 +25450,7 @@ adm2,group,phase,group_name,total_eligible
 48043,8,1c,Aged 16+ and smoker,1069
 48043,9,1c,Other essential workers,1670
 48045,0,1a,Health care personnel,1
+48045,1,1a,Long-term care facillity residents,0
 48045,2,1b,Frontline essential workers,146
 48045,3,1b,Aged 75+,176
 48045,4,1c,Aged 65-74,196
@@ -25326,6 +25550,7 @@ adm2,group,phase,group_name,total_eligible
 48063,8,1c,Aged 16+ and smoker,1563
 48063,9,1c,Other essential workers,1181
 48065,0,1a,Health care personnel,30
+48065,1,1a,Long-term care facillity residents,0
 48065,2,1b,Frontline essential workers,678
 48065,3,1b,Aged 75+,489
 48065,4,1c,Aged 65-74,609
@@ -25395,6 +25620,7 @@ adm2,group,phase,group_name,total_eligible
 48077,8,1c,Aged 16+ and smoker,1276
 48077,9,1c,Other essential workers,553
 48079,0,1a,Health care personnel,22
+48079,1,1a,Long-term care facillity residents,0
 48079,2,1b,Frontline essential workers,243
 48079,3,1b,Aged 75+,240
 48079,4,1c,Aged 65-74,215
@@ -25504,6 +25730,7 @@ adm2,group,phase,group_name,total_eligible
 48099,8,1c,Aged 16+ and smoker,9489
 48099,9,1c,Other essential workers,5811
 48101,0,1a,Health care personnel,12
+48101,1,1a,Long-term care facillity residents,0
 48101,2,1b,Frontline essential workers,129
 48101,3,1b,Aged 75+,148
 48101,4,1c,Aged 65-74,193
@@ -25513,6 +25740,7 @@ adm2,group,phase,group_name,total_eligible
 48101,8,1c,Aged 16+ and smoker,192
 48101,9,1c,Other essential workers,103
 48103,0,1a,Health care personnel,108
+48103,1,1a,Long-term care facillity residents,0
 48103,2,1b,Frontline essential workers,272
 48103,3,1b,Aged 75+,232
 48103,4,1c,Aged 65-74,422
@@ -25542,6 +25770,7 @@ adm2,group,phase,group_name,total_eligible
 48107,8,1c,Aged 16+ and smoker,705
 48107,9,1c,Other essential workers,373
 48109,0,1a,Health care personnel,36
+48109,1,1a,Long-term care facillity residents,0
 48109,2,1b,Frontline essential workers,334
 48109,3,1b,Aged 75+,166
 48109,4,1c,Aged 65-74,161
@@ -25551,6 +25780,7 @@ adm2,group,phase,group_name,total_eligible
 48109,8,1c,Aged 16+ and smoker,311
 48109,9,1c,Other essential workers,491
 48111,0,1a,Health care personnel,112
+48111,1,1a,Long-term care facillity residents,0
 48111,2,1b,Frontline essential workers,2467
 48111,3,1b,Aged 75+,346
 48111,4,1c,Aged 65-74,438
@@ -25620,6 +25850,7 @@ adm2,group,phase,group_name,total_eligible
 48123,8,1c,Aged 16+ and smoker,2420
 48123,9,1c,Other essential workers,3577
 48125,0,1a,Health care personnel,4
+48125,1,1a,Long-term care facillity residents,0
 48125,2,1b,Frontline essential workers,182
 48125,3,1b,Aged 75+,247
 48125,4,1c,Aged 65-74,277
@@ -25679,6 +25910,7 @@ adm2,group,phase,group_name,total_eligible
 48135,8,1c,Aged 16+ and smoker,16353
 48135,9,1c,Other essential workers,41161
 48137,0,1a,Health care personnel,7
+48137,1,1a,Long-term care facillity residents,0
 48137,2,1b,Frontline essential workers,124
 48137,3,1b,Aged 75+,267
 48137,4,1c,Aged 65-74,319
@@ -25857,6 +26089,8 @@ adm2,group,phase,group_name,total_eligible
 48171,7,1c,Aged 15-49 and prgnant,219
 48171,8,1c,Aged 16+ and smoker,2636
 48171,9,1c,Other essential workers,5091
+48173,0,1a,Health care personnel,0
+48173,1,1a,Long-term care facillity residents,0
 48173,2,1b,Frontline essential workers,229
 48173,3,1b,Aged 75+,100
 48173,4,1c,Aged 65-74,49
@@ -26136,6 +26370,7 @@ adm2,group,phase,group_name,total_eligible
 48227,8,1c,Aged 16+ and smoker,4649
 48227,9,1c,Other essential workers,5231
 48229,0,1a,Health care personnel,1
+48229,1,1a,Long-term care facillity residents,0
 48229,2,1b,Frontline essential workers,380
 48229,3,1b,Aged 75+,312
 48229,4,1c,Aged 65-74,363
@@ -26165,6 +26400,7 @@ adm2,group,phase,group_name,total_eligible
 48233,8,1c,Aged 16+ and smoker,2483
 48233,9,1c,Other essential workers,3476
 48235,0,1a,Health care personnel,2
+48235,1,1a,Long-term care facillity residents,0
 48235,2,1b,Frontline essential workers,108
 48235,3,1b,Aged 75+,127
 48235,4,1c,Aged 65-74,146
@@ -26204,6 +26440,7 @@ adm2,group,phase,group_name,total_eligible
 48241,8,1c,Aged 16+ and smoker,4454
 48241,9,1c,Other essential workers,3683
 48243,0,1a,Health care personnel,31
+48243,1,1a,Long-term care facillity residents,0
 48243,2,1b,Frontline essential workers,123
 48243,3,1b,Aged 75+,191
 48243,4,1c,Aged 65-74,572
@@ -26293,6 +26530,7 @@ adm2,group,phase,group_name,total_eligible
 48259,8,1c,Aged 16+ and smoker,4174
 48259,9,1c,Other essential workers,6803
 48261,0,1a,Health care personnel,2
+48261,1,1a,Long-term care facillity residents,0
 48261,2,1b,Frontline essential workers,89
 48261,3,1b,Aged 75+,49
 48261,4,1c,Aged 65-74,95
@@ -26322,6 +26560,7 @@ adm2,group,phase,group_name,total_eligible
 48265,8,1c,Aged 16+ and smoker,5596
 48265,9,1c,Other essential workers,6701
 48267,0,1a,Health care personnel,80
+48267,1,1a,Long-term care facillity residents,0
 48267,2,1b,Frontline essential workers,323
 48267,3,1b,Aged 75+,558
 48267,4,1c,Aged 65-74,709
@@ -26330,6 +26569,8 @@ adm2,group,phase,group_name,total_eligible
 48267,7,1c,Aged 15-49 and prgnant,33
 48267,8,1c,Aged 16+ and smoker,501
 48267,9,1c,Other essential workers,566
+48269,0,1a,Health care personnel,0
+48269,1,1a,Long-term care facillity residents,0
 48269,2,1b,Frontline essential workers,11
 48269,3,1b,Aged 75+,13
 48269,4,1c,Aged 65-74,12
@@ -26339,6 +26580,7 @@ adm2,group,phase,group_name,total_eligible
 48269,8,1c,Aged 16+ and smoker,23
 48269,9,1c,Other essential workers,18
 48271,0,1a,Health care personnel,12
+48271,1,1a,Long-term care facillity residents,0
 48271,2,1b,Frontline essential workers,243
 48271,3,1b,Aged 75+,335
 48271,4,1c,Aged 65-74,569
@@ -26487,11 +26729,14 @@ adm2,group,phase,group_name,total_eligible
 48299,7,1c,Aged 15-49 and prgnant,139
 48299,8,1c,Aged 16+ and smoker,2387
 48299,9,1c,Other essential workers,1757
+48301,0,1a,Health care personnel,0
+48301,1,1a,Long-term care facillity residents,0
 48301,2,1b,Frontline essential workers,5
 48301,3,1b,Aged 75+,3
 48301,4,1c,Aged 65-74,22
 48301,5,1c,Aged 18-64 w cormorbidities,35
 48301,6,1c,Aged under 65 w cancer,1
+48301,7,1c,Aged 15-49 and prgnant,0
 48301,8,1c,Aged 16+ and smoker,10
 48301,9,1c,Other essential workers,4
 48303,0,1a,Health care personnel,20124
@@ -26535,6 +26780,7 @@ adm2,group,phase,group_name,total_eligible
 48309,8,1c,Aged 16+ and smoker,31156
 48309,9,1c,Other essential workers,43079
 48311,0,1a,Health care personnel,5
+48311,1,1a,Long-term care facillity residents,0
 48311,2,1b,Frontline essential workers,101
 48311,3,1b,Aged 75+,59
 48311,4,1c,Aged 65-74,83
@@ -26564,6 +26810,7 @@ adm2,group,phase,group_name,total_eligible
 48315,8,1c,Aged 16+ and smoker,1428
 48315,9,1c,Other essential workers,966
 48317,0,1a,Health care personnel,120
+48317,1,1a,Long-term care facillity residents,0
 48317,2,1b,Frontline essential workers,477
 48317,3,1b,Aged 75+,292
 48317,4,1c,Aged 65-74,391
@@ -26573,6 +26820,7 @@ adm2,group,phase,group_name,total_eligible
 48317,8,1c,Aged 16+ and smoker,569
 48317,9,1c,Other essential workers,660
 48319,0,1a,Health care personnel,103
+48319,1,1a,Long-term care facillity residents,0
 48319,2,1b,Frontline essential workers,319
 48319,3,1b,Aged 75+,393
 48319,4,1c,Aged 65-74,628
@@ -26772,6 +27020,7 @@ adm2,group,phase,group_name,total_eligible
 48357,8,1c,Aged 16+ and smoker,1108
 48357,9,1c,Other essential workers,2165
 48359,0,1a,Health care personnel,21
+48359,1,1a,Long-term care facillity residents,0
 48359,2,1b,Frontline essential workers,365
 48359,3,1b,Aged 75+,99
 48359,4,1c,Aged 65-74,210
@@ -26861,6 +27110,7 @@ adm2,group,phase,group_name,total_eligible
 48375,8,1c,Aged 16+ and smoker,16071
 48375,9,1c,Other essential workers,29675
 48377,0,1a,Health care personnel,59
+48377,1,1a,Long-term care facillity residents,0
 48377,2,1b,Frontline essential workers,697
 48377,3,1b,Aged 75+,774
 48377,4,1c,Aged 65-74,909
@@ -26900,6 +27150,7 @@ adm2,group,phase,group_name,total_eligible
 48383,8,1c,Aged 16+ and smoker,391
 48383,9,1c,Other essential workers,1139
 48385,0,1a,Health care personnel,45
+48385,1,1a,Long-term care facillity residents,0
 48385,2,1b,Frontline essential workers,236
 48385,3,1b,Aged 75+,525
 48385,4,1c,Aged 65-74,450
@@ -26938,6 +27189,8 @@ adm2,group,phase,group_name,total_eligible
 48391,7,1c,Aged 15-49 and prgnant,70
 48391,8,1c,Aged 16+ and smoker,791
 48391,9,1c,Other essential workers,1120
+48393,0,1a,Health care personnel,0
+48393,1,1a,Long-term care facillity residents,0
 48393,2,1b,Frontline essential workers,116
 48393,3,1b,Aged 75+,115
 48393,4,1c,Aged 65-74,91
@@ -27027,6 +27280,7 @@ adm2,group,phase,group_name,total_eligible
 48409,8,1c,Aged 16+ and smoker,7617
 48409,9,1c,Other essential workers,8937
 48411,0,1a,Health care personnel,90
+48411,1,1a,Long-term care facillity residents,0
 48411,2,1b,Frontline essential workers,540
 48411,3,1b,Aged 75+,604
 48411,4,1c,Aged 65-74,778
@@ -27056,6 +27310,7 @@ adm2,group,phase,group_name,total_eligible
 48415,8,1c,Aged 16+ and smoker,1978
 48415,9,1c,Other essential workers,3277
 48417,0,1a,Health care personnel,75
+48417,1,1a,Long-term care facillity residents,0
 48417,2,1b,Frontline essential workers,273
 48417,3,1b,Aged 75+,293
 48417,4,1c,Aged 65-74,339
@@ -27135,6 +27390,7 @@ adm2,group,phase,group_name,total_eligible
 48431,8,1c,Aged 16+ and smoker,135
 48431,9,1c,Other essential workers,151
 48433,0,1a,Health care personnel,11
+48433,1,1a,Long-term care facillity residents,0
 48433,2,1b,Frontline essential workers,77
 48433,3,1b,Aged 75+,158
 48433,4,1c,Aged 65-74,142
@@ -27144,6 +27400,7 @@ adm2,group,phase,group_name,total_eligible
 48433,8,1c,Aged 16+ and smoker,145
 48433,9,1c,Other essential workers,132
 48435,0,1a,Health care personnel,49
+48435,1,1a,Long-term care facillity residents,0
 48435,2,1b,Frontline essential workers,365
 48435,3,1b,Aged 75+,285
 48435,4,1c,Aged 65-74,406
@@ -27183,6 +27440,7 @@ adm2,group,phase,group_name,total_eligible
 48441,8,1c,Aged 16+ and smoker,15911
 48441,9,1c,Other essential workers,26108
 48443,0,1a,Health care personnel,1
+48443,1,1a,Long-term care facillity residents,0
 48443,2,1b,Frontline essential workers,63
 48443,3,1b,Aged 75+,88
 48443,4,1c,Aged 65-74,205
@@ -27202,6 +27460,7 @@ adm2,group,phase,group_name,total_eligible
 48445,8,1c,Aged 16+ and smoker,1508
 48445,9,1c,Other essential workers,1527
 48447,0,1a,Health care personnel,13
+48447,1,1a,Long-term care facillity residents,0
 48447,2,1b,Frontline essential workers,106
 48447,3,1b,Aged 75+,193
 48447,4,1c,Aged 65-74,209
@@ -27271,6 +27530,7 @@ adm2,group,phase,group_name,total_eligible
 48459,8,1c,Aged 16+ and smoker,4850
 48459,9,1c,Other essential workers,3301
 48461,0,1a,Health care personnel,34
+48461,1,1a,Long-term care facillity residents,0
 48461,2,1b,Frontline essential workers,277
 48461,3,1b,Aged 75+,280
 48461,4,1c,Aged 65-74,331
@@ -27440,6 +27700,7 @@ adm2,group,phase,group_name,total_eligible
 48493,8,1c,Aged 16+ and smoker,5055
 48493,9,1c,Other essential workers,3821
 48495,0,1a,Health care personnel,105
+48495,1,1a,Long-term care facillity residents,0
 48495,2,1b,Frontline essential workers,613
 48495,3,1b,Aged 75+,388
 48495,4,1c,Aged 65-74,518
@@ -27499,6 +27760,7 @@ adm2,group,phase,group_name,total_eligible
 48505,8,1c,Aged 16+ and smoker,1687
 48505,9,1c,Other essential workers,2042
 48507,0,1a,Health care personnel,116
+48507,1,1a,Long-term care facillity residents,0
 48507,2,1b,Frontline essential workers,765
 48507,3,1b,Aged 75+,686
 48507,4,1c,Aged 65-74,979
@@ -27508,6 +27770,7 @@ adm2,group,phase,group_name,total_eligible
 48507,8,1c,Aged 16+ and smoker,1768
 48507,9,1c,Other essential workers,913
 49001,0,1a,Health care personnel,92
+49001,1,1a,Long-term care facillity residents,0
 49001,2,1b,Frontline essential workers,862
 49001,3,1b,Aged 75+,358
 49001,4,1c,Aged 65-74,565
@@ -27546,6 +27809,8 @@ adm2,group,phase,group_name,total_eligible
 49007,7,1c,Aged 15-49 and prgnant,245
 49007,8,1c,Aged 16+ and smoker,1884
 49007,9,1c,Other essential workers,3847
+49009,0,1a,Health care personnel,0
+49009,1,1a,Long-term care facillity residents,0
 49009,2,1b,Frontline essential workers,82
 49009,3,1b,Aged 75+,15
 49009,4,1c,Aged 65-74,62
@@ -27585,6 +27850,7 @@ adm2,group,phase,group_name,total_eligible
 49015,8,1c,Aged 16+ and smoker,896
 49015,9,1c,Other essential workers,1078
 49017,0,1a,Health care personnel,143
+49017,1,1a,Long-term care facillity residents,0
 49017,2,1b,Frontline essential workers,471
 49017,3,1b,Aged 75+,425
 49017,4,1c,Aged 65-74,663
@@ -27654,6 +27920,7 @@ adm2,group,phase,group_name,total_eligible
 49029,8,1c,Aged 16+ and smoker,659
 49029,9,1c,Other essential workers,1131
 49031,0,1a,Health care personnel,16
+49031,1,1a,Long-term care facillity residents,0
 49031,2,1b,Frontline essential workers,106
 49031,3,1b,Aged 75+,191
 49031,4,1c,Aged 65-74,268
@@ -27663,6 +27930,7 @@ adm2,group,phase,group_name,total_eligible
 49031,8,1c,Aged 16+ and smoker,137
 49031,9,1c,Other essential workers,110
 49033,0,1a,Health care personnel,12
+49033,1,1a,Long-term care facillity residents,0
 49033,2,1b,Frontline essential workers,193
 49033,3,1b,Aged 75+,215
 49033,4,1c,Aged 65-74,290
@@ -27832,6 +28100,7 @@ adm2,group,phase,group_name,total_eligible
 50007,8,1c,Aged 16+ and smoker,15189
 50007,9,1c,Other essential workers,33712
 50009,0,1a,Health care personnel,84
+50009,1,1a,Long-term care facillity residents,0
 50009,2,1b,Frontline essential workers,517
 50009,3,1b,Aged 75+,637
 50009,4,1c,Aged 65-74,930
@@ -27851,6 +28120,7 @@ adm2,group,phase,group_name,total_eligible
 50011,8,1c,Aged 16+ and smoker,6675
 50011,9,1c,Other essential workers,6077
 50013,0,1a,Health care personnel,35
+50013,1,1a,Long-term care facillity residents,0
 50013,2,1b,Frontline essential workers,373
 50013,3,1b,Aged 75+,413
 50013,4,1c,Aged 65-74,988
@@ -28110,6 +28380,7 @@ adm2,group,phase,group_name,total_eligible
 51035,8,1c,Aged 16+ and smoker,4422
 51035,9,1c,Other essential workers,2312
 51036,0,1a,Health care personnel,42
+51036,1,1a,Long-term care facillity residents,0
 51036,2,1b,Frontline essential workers,535
 51036,3,1b,Aged 75+,658
 51036,4,1c,Aged 65-74,1020
@@ -28119,6 +28390,7 @@ adm2,group,phase,group_name,total_eligible
 51036,8,1c,Aged 16+ and smoker,1027
 51036,9,1c,Other essential workers,842
 51037,0,1a,Health care personnel,244
+51037,1,1a,Long-term care facillity residents,0
 51037,2,1b,Frontline essential workers,1177
 51037,3,1b,Aged 75+,1154
 51037,4,1c,Aged 65-74,1480
@@ -28148,6 +28420,7 @@ adm2,group,phase,group_name,total_eligible
 51043,8,1c,Aged 16+ and smoker,1767
 51043,9,1c,Other essential workers,976
 51045,0,1a,Health care personnel,75
+51045,1,1a,Long-term care facillity residents,0
 51045,2,1b,Frontline essential workers,292
 51045,3,1b,Aged 75+,430
 51045,4,1c,Aged 65-74,658
@@ -28177,6 +28450,7 @@ adm2,group,phase,group_name,total_eligible
 51049,8,1c,Aged 16+ and smoker,1541
 51049,9,1c,Other essential workers,495
 51051,0,1a,Health care personnel,270
+51051,1,1a,Long-term care facillity residents,0
 51051,2,1b,Frontline essential workers,843
 51051,3,1b,Aged 75+,1307
 51051,4,1c,Aged 65-74,1853
@@ -28316,6 +28590,7 @@ adm2,group,phase,group_name,total_eligible
 51079,8,1c,Aged 16+ and smoker,2587
 51079,9,1c,Other essential workers,1314
 51081,0,1a,Health care personnel,177
+51081,1,1a,Long-term care facillity residents,0
 51081,2,1b,Frontline essential workers,1876
 51081,3,1b,Aged 75+,638
 51081,4,1c,Aged 65-74,1072
@@ -28365,6 +28640,7 @@ adm2,group,phase,group_name,total_eligible
 51089,8,1c,Aged 16+ and smoker,8014
 51089,9,1c,Other essential workers,4358
 51091,0,1a,Health care personnel,10
+51091,1,1a,Long-term care facillity residents,0
 51091,2,1b,Frontline essential workers,148
 51091,3,1b,Aged 75+,348
 51091,4,1c,Aged 65-74,509
@@ -28394,6 +28670,7 @@ adm2,group,phase,group_name,total_eligible
 51095,8,1c,Aged 16+ and smoker,7431
 51095,9,1c,Other essential workers,9086
 51097,0,1a,Health care personnel,99
+51097,1,1a,Long-term care facillity residents,0
 51097,2,1b,Frontline essential workers,494
 51097,3,1b,Aged 75+,590
 51097,4,1c,Aged 65-74,1038
@@ -28483,6 +28760,7 @@ adm2,group,phase,group_name,total_eligible
 51113,8,1c,Aged 16+ and smoker,1708
 51113,9,1c,Other essential workers,805
 51115,0,1a,Health care personnel,239
+51115,1,1a,Long-term care facillity residents,0
 51115,2,1b,Frontline essential workers,571
 51115,3,1b,Aged 75+,1127
 51115,4,1c,Aged 65-74,1614
@@ -28522,6 +28800,7 @@ adm2,group,phase,group_name,total_eligible
 51121,8,1c,Aged 16+ and smoker,14341
 51121,9,1c,Other essential workers,12739
 51125,0,1a,Health care personnel,286
+51125,1,1a,Long-term care facillity residents,0
 51125,2,1b,Frontline essential workers,1376
 51125,3,1b,Aged 75+,1401
 51125,4,1c,Aged 65-74,2452
@@ -28531,6 +28810,7 @@ adm2,group,phase,group_name,total_eligible
 51125,8,1c,Aged 16+ and smoker,1967
 51125,9,1c,Other essential workers,1056
 51127,0,1a,Health care personnel,558
+51127,1,1a,Long-term care facillity residents,0
 51127,2,1b,Frontline essential workers,1361
 51127,3,1b,Aged 75+,1144
 51127,4,1c,Aged 65-74,2440
@@ -28540,6 +28820,7 @@ adm2,group,phase,group_name,total_eligible
 51127,8,1c,Aged 16+ and smoker,2473
 51127,9,1c,Other essential workers,1524
 51131,0,1a,Health care personnel,310
+51131,1,1a,Long-term care facillity residents,0
 51131,2,1b,Frontline essential workers,1651
 51131,3,1b,Aged 75+,1317
 51131,4,1c,Aged 65-74,1776
@@ -28549,6 +28830,7 @@ adm2,group,phase,group_name,total_eligible
 51131,8,1c,Aged 16+ and smoker,1748
 51131,9,1c,Other essential workers,1419
 51133,0,1a,Health care personnel,209
+51133,1,1a,Long-term care facillity residents,0
 51133,2,1b,Frontline essential workers,1324
 51133,3,1b,Aged 75+,1891
 51133,4,1c,Aged 65-74,2582
@@ -28628,6 +28910,7 @@ adm2,group,phase,group_name,total_eligible
 51147,8,1c,Aged 16+ and smoker,3523
 51147,9,1c,Other essential workers,3397
 51149,0,1a,Health care personnel,998
+51149,1,1a,Long-term care facillity residents,0
 51149,2,1b,Frontline essential workers,3952
 51149,3,1b,Aged 75+,1962
 51149,4,1c,Aged 65-74,3161
@@ -28657,6 +28940,7 @@ adm2,group,phase,group_name,total_eligible
 51155,8,1c,Aged 16+ and smoker,4603
 51155,9,1c,Other essential workers,3904
 51157,0,1a,Health care personnel,40
+51157,1,1a,Long-term care facillity residents,0
 51157,2,1b,Frontline essential workers,536
 51157,3,1b,Aged 75+,740
 51157,4,1c,Aged 65-74,1167
@@ -28776,6 +29060,7 @@ adm2,group,phase,group_name,total_eligible
 51179,8,1c,Aged 16+ and smoker,16869
 51179,9,1c,Other essential workers,18202
 51181,0,1a,Health care personnel,40
+51181,1,1a,Long-term care facillity residents,0
 51181,2,1b,Frontline essential workers,383
 51181,3,1b,Aged 75+,545
 51181,4,1c,Aged 65-74,868
@@ -28925,6 +29210,7 @@ adm2,group,phase,group_name,total_eligible
 51570,8,1c,Aged 16+ and smoker,2338
 51570,9,1c,Other essential workers,5618
 51580,0,1a,Health care personnel,65
+51580,1,1a,Long-term care facillity residents,0
 51580,2,1b,Frontline essential workers,527
 51580,3,1b,Aged 75+,471
 51580,4,1c,Aged 65-74,660
@@ -29064,6 +29350,7 @@ adm2,group,phase,group_name,total_eligible
 51683,8,1c,Aged 16+ and smoker,4685
 51683,9,1c,Other essential workers,8586
 51685,0,1a,Health care personnel,27
+51685,1,1a,Long-term care facillity residents,0
 51685,2,1b,Frontline essential workers,902
 51685,3,1b,Aged 75+,545
 51685,4,1c,Aged 65-74,892
@@ -29333,6 +29620,7 @@ adm2,group,phase,group_name,total_eligible
 53017,8,1c,Aged 16+ and smoker,4495
 53017,9,1c,Other essential workers,4103
 53019,0,1a,Health care personnel,160
+53019,1,1a,Long-term care facillity residents,0
 53019,2,1b,Frontline essential workers,508
 53019,3,1b,Aged 75+,682
 53019,4,1c,Aged 65-74,1246
@@ -29352,6 +29640,7 @@ adm2,group,phase,group_name,total_eligible
 53021,8,1c,Aged 16+ and smoker,9100
 53021,9,1c,Other essential workers,10048
 53023,0,1a,Health care personnel,15
+53023,1,1a,Long-term care facillity residents,0
 53023,2,1b,Frontline essential workers,93
 53023,3,1b,Aged 75+,262
 53023,4,1c,Aged 65-74,289
@@ -29431,6 +29720,7 @@ adm2,group,phase,group_name,total_eligible
 53037,8,1c,Aged 16+ and smoker,5437
 53037,9,1c,Other essential workers,6694
 53039,0,1a,Health care personnel,370
+53039,1,1a,Long-term care facillity residents,0
 53039,2,1b,Frontline essential workers,2626
 53039,3,1b,Aged 75+,1812
 53039,4,1c,Aged 65-74,3314
@@ -29510,6 +29800,7 @@ adm2,group,phase,group_name,total_eligible
 53053,8,1c,Aged 16+ and smoker,103629
 53053,9,1c,Other essential workers,129888
 53055,0,1a,Health care personnel,255
+53055,1,1a,Long-term care facillity residents,0
 53055,2,1b,Frontline essential workers,1351
 53055,3,1b,Aged 75+,1967
 53055,4,1c,Aged 65-74,3560
@@ -29579,6 +29870,7 @@ adm2,group,phase,group_name,total_eligible
 53067,8,1c,Aged 16+ and smoker,29514
 53067,9,1c,Other essential workers,55526
 53069,0,1a,Health care personnel,45
+53069,1,1a,Long-term care facillity residents,0
 53069,2,1b,Frontline essential workers,382
 53069,3,1b,Aged 75+,514
 53069,4,1c,Aged 65-74,896
@@ -29708,6 +30000,7 @@ adm2,group,phase,group_name,total_eligible
 54015,8,1c,Aged 16+ and smoker,1648
 54015,9,1c,Other essential workers,469
 54017,0,1a,Health care personnel,54
+54017,1,1a,Long-term care facillity residents,0
 54017,2,1b,Frontline essential workers,503
 54017,3,1b,Aged 75+,684
 54017,4,1c,Aged 65-74,1078
@@ -29987,6 +30280,7 @@ adm2,group,phase,group_name,total_eligible
 54071,8,1c,Aged 16+ and smoker,1283
 54071,9,1c,Other essential workers,412
 54073,0,1a,Health care personnel,139
+54073,1,1a,Long-term care facillity residents,0
 54073,2,1b,Frontline essential workers,886
 54073,3,1b,Aged 75+,564
 54073,4,1c,Aged 65-74,829
@@ -31026,6 +31320,7 @@ adm2,group,phase,group_name,total_eligible
 56025,8,1c,Aged 16+ and smoker,11263
 56025,9,1c,Other essential workers,16941
 56027,0,1a,Health care personnel,41
+56027,1,1a,Long-term care facillity residents,0
 56027,2,1b,Frontline essential workers,276
 56027,3,1b,Aged 75+,291
 56027,4,1c,Aged 65-74,261
